@@ -3,8 +3,20 @@ import { getEstimatedCoordinates } from "../data/provinces";
 
 // API Configuration
 const API_BASE_URL =
-  import.meta.env.VITE_API_URL || "http://localhost:5000/api";
-const USE_MOCK_DATA = import.meta.env.VITE_USE_MOCK === "true" || false;
+  import.meta.env.VITE_API_URL ||
+  (typeof window !== "undefined" && (window as any).VITE_API_URL) ||
+  "http://localhost:5000/api";
+
+const USE_MOCK_DATA =
+  import.meta.env.VITE_USE_MOCK === "true" ||
+  (typeof window !== "undefined" && (window as any).VITE_USE_MOCK === "true") ||
+  false;
+
+console.log("API Configuration:", {
+  API_BASE_URL,
+  USE_MOCK_DATA,
+  env: import.meta.env,
+});
 
 interface APIResponse<T> {
   success: boolean;
@@ -536,15 +548,15 @@ export const fetchRegionalData = async (
 
   return {
     regions,
-    summary: `Analysis based on ${
+    summary: `Analisis berdasarkan ${
       rawData.length
-    } kabupaten/kota from 2024 Regional Expenditure Data (${
+    } kabupaten/kota dari Data Pengeluaran Regional 2023-2024 (${
       USE_MOCK_DATA ? "Mock" : "API"
-    }). The dataset identifies significant variance in fruit and vegetable spending across clusters. Cluster 2 represents high-outlier regions with extreme vegetable expenditure. Cluster 0 represents established urban centers with higher fruit consumption.`,
+    }). Dataset menunjukkan variasi signifikan dalam pengeluaran buah dan sayur di berbagai wilayah. Terdapat perbedaan pola konsumsi antara wilayah perkotaan dan perdesaan.`,
     recommendations: [
-      "Focus distribution efficiency in High Expenditure zones (Cluster 2) to capitalize on high market value.",
-      "Implement affordability programs in Balanced/Low clusters to stimulate demand.",
-      "Investigate supply chain constraints in Eastern Indonesia where vegetable prices/expenditure appear disproportionately high.",
+      "Optimalkan distribusi di wilayah dengan pengeluaran tinggi untuk memaksimalkan potensi pasar.",
+      "Tingkatkan akses dan keterjangkauan di wilayah dengan pengeluaran rendah untuk mendorong konsumsi.",
+      "Perbaiki infrastruktur rantai pasok untuk mengurangi disparitas harga antar wilayah.",
     ],
   };
 };

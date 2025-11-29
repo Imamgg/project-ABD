@@ -125,19 +125,19 @@ const MapComponent: React.FC<MapProps> = ({
                     </h3>
                     <div className="space-y-1 text-sm text-gray-200 mb-3">
                       <div className="flex justify-between">
-                        <span className="text-gray-400">Cluster:</span>
+                        <span className="text-gray-400">Kluster:</span>
                         <span style={{ color }} className="font-bold">
                           {region.clusterGroup}
                         </span>
                       </div>
                       <div className="flex justify-between">
-                        <span className="text-gray-400">Expenditure:</span>
+                        <span className="text-gray-400">Pengeluaran:</span>
                         <span>
                           Rp {region.totalExpenditure.toLocaleString()}
                         </span>
                       </div>
                       <div className="flex justify-between">
-                        <span className="text-gray-400">Region:</span>
+                        <span className="text-gray-400">Wilayah:</span>
                         <span>{region.province}</span>
                       </div>
                     </div>
@@ -146,7 +146,7 @@ const MapComponent: React.FC<MapProps> = ({
                         onClick={() => onSelectRegion(region)}
                         className="w-full py-1.5 px-3 rounded text-xs font-bold bg-white/10 hover:bg-neon-cyan hover:text-black transition duration-200 border border-white/20 hover:border-neon-cyan"
                       >
-                        VIEW DETAILS
+                        LIHAT DETAIL
                       </button>
                     )}
                   </div>

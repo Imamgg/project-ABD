@@ -96,11 +96,9 @@ const App: React.FC = () => {
       <nav className="sticky top-0 z-50 border-b border-white/10 bg-dark-bg/80 backdrop-blur-lg">
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
           <div className="flex items-center space-x-3">
-            <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-neon-purple to-neon-blue flex items-center justify-center shadow-[0_0_15px_rgba(176,38,255,0.5)]">
               <Icons.Zap className="text-white w-6 h-6" />
-            </div>
             <span className="text-2xl font-bold tracking-tighter">
-              AGRI<span className="text-neon-cyan">NOVA</span>
+              ABD-<span className="text-neon-cyan">2</span>
             </span>
           </div>
 
@@ -212,7 +210,7 @@ const App: React.FC = () => {
               <>
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
                   <GlassCard
-                    title="Coverage"
+                    title="Cakupan Region"
                     icon={<Icons.Map className="text-neon-cyan" />}
                     glow="cyan"
                   >
@@ -224,7 +222,7 @@ const App: React.FC = () => {
                     </div>
                   </GlassCard>
                   <GlassCard
-                    title="Total Expenditure"
+                    title="Total Pengeluaran Rata-rata"
                     icon={<Icons.Activity className="text-neon-purple" />}
                     glow="purple"
                   >
@@ -238,11 +236,11 @@ const App: React.FC = () => {
                       k
                     </div>
                     <div className="text-xs text-neon-purple mt-1">
-                      Avg Rp/Cap/Year
+                      Rata-rata Rp/Cap/Tahun
                     </div>
                   </GlassCard>
                   <GlassCard
-                    title="Avg Growth"
+                    title="Rata-rata Pertumbuhan"
                     icon={<Icons.TrendingUp className="text-neon-pink" />}
                     glow="pink"
                   >
@@ -256,7 +254,7 @@ const App: React.FC = () => {
                       %
                     </div>
                     <div className="text-xs text-neon-pink mt-1">
-                      Projected Trend
+                      Tren Proyeksi Tahunan
                     </div>
                   </GlassCard>
                   <GlassCard
@@ -272,7 +270,7 @@ const App: React.FC = () => {
                       }
                     </div>
                     <div className="text-xs text-neon-blue mt-1">
-                      Highest Spending
+                      Pengeluaran Tertinggi
                     </div>
                   </GlassCard>
                 </div>
@@ -318,7 +316,7 @@ const App: React.FC = () => {
 
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                   <GlassCard
-                    title="Regional Expenditure (Fruit + Veg)"
+                    title="20 wilayah dengan Pengeluaran Tertinggi"
                     icon={<Icons.Activity className="text-neon-blue" />}
                   >
                     <CategoryBarChart
@@ -327,7 +325,7 @@ const App: React.FC = () => {
                     />
                   </GlassCard>
                   <GlassCard
-                    title="Production vs Demand (Est)"
+                    title="Produksi vs Permintaan (Est)"
                     icon={<Icons.PieChart className="text-white" />}
                   >
                     <GapAnalysisChart
@@ -352,9 +350,9 @@ const App: React.FC = () => {
                   />
                 </GlassCard>
                 <div className="space-y-6 flex flex-col">
-                  <GlassCard title="Cluster Share" className="flex-1">
+                  <GlassCard title="Pembagian Kluster" className="flex-1">
                     <DistributionPieChart
-                      data={data.regions.slice(0, 10)}
+                      data={data.regions.slice(0, 20)}
                       onSelectRegion={handleSelectRegion}
                     />
                   </GlassCard>
@@ -397,7 +395,7 @@ const App: React.FC = () => {
               <div className="space-y-6">
                 <div className="flex justify-between items-center">
                   <h2 className="text-2xl font-bold text-white">
-                    Cluster Segmentation
+                    Segmentasi Kluster Regional
                   </h2>
                   <span className="px-3 py-1 rounded-full border border-neon-purple text-neon-purple text-xs font-mono">
                     X: Growth | Y: Expenditure | Z: Population
@@ -415,28 +413,27 @@ const App: React.FC = () => {
                       <div className="space-y-4 mt-2">
                         <div className="p-3 rounded bg-white/5 border-l-4 border-neon-cyan">
                           <h4 className="text-neon-cyan font-bold text-sm">
-                            High Expenditure (Cluster 2)
+                            Pengeluaran Tinggi (Kluster 2)
                           </h4>
-                          <p className="text-xs text-gray-400 mt-1">
-                            Regions with extremely high vegetable spending
-                            (e.g., Papua Highlands). Outliers in data.
-                          </p>
+                            <p className="text-xs text-gray-400 mt-1">
+                            Wilayah dengan pengeluaran pangan tertinggi, menunjukkan konsumsi intensif terhadap buah dan sayuran.
+                            </p>
                         </div>
                         <div className="p-3 rounded bg-white/5 border-l-4 border-neon-purple">
                           <h4 className="text-neon-purple font-bold text-sm">
-                            Balanced/Medium
+                            Pengeluaran Sedang (Kluster 1)
                           </h4>
                           <p className="text-xs text-gray-400 mt-1">
-                            Average consumption patterns typical of most
-                            regencies.
+                            Pola konsumsi rata-rata yang khas untuk sebagian besar
+                            kabupaten.
                           </p>
                         </div>
                         <div className="p-3 rounded bg-white/5 border-l-4 border-neon-pink">
                           <h4 className="text-neon-pink font-bold text-sm">
-                            Low Expenditure (Cluster 0)
+                            Pengeluaran Rendah (Kluster 0)
                           </h4>
                           <p className="text-xs text-gray-400 mt-1">
-                            Areas with lower reported spending on fruit/veg.
+                            Wilayah dengan pengeluaran rendah terhadap buah dan sayur.
                           </p>
                         </div>
                       </div>

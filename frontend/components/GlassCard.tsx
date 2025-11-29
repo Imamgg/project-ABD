@@ -25,7 +25,7 @@ const GlassCard: React.FC<GlassCardProps> = ({ children, className = '', title, 
       {(title || icon) && (
         <div className="flex items-center space-x-3 mb-4 border-b border-white/5 pb-2">
           {icon && <span className="text-white/80">{icon}</span>}
-          {title && <h3 className="text-lg font-semibold tracking-wide text-white/90">{title}</h3>}
+          {title && <h3 className="text-sm font-semibold tracking-wide text-white/90">{title}</h3>}
         </div>
       )}
       {children}

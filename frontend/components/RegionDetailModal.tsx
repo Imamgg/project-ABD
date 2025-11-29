@@ -60,11 +60,11 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
                    region.clusterGroup === 'Medium' ? 'border-neon-purple text-neon-purple bg-neon-purple/10' :
                    'border-neon-pink text-neon-pink bg-neon-pink/10'
                 }`}>
-                  {region.clusterGroup} Cluster
+                  {region.clusterGroup} Kluster
                 </span>
                 <span className="text-gray-400 text-sm flex items-center bg-white/5 px-3 py-1 rounded-full border border-white/5">
                   <Icons.TrendingUp size={14} className={`mr-2 ${region.growthRate > 0 ? 'text-green-400' : 'text-red-400'}`} /> 
-                  {region.growthRate > 0 ? '+' : ''}{region.growthRate}% Growth
+                  {region.growthRate > 0 ? '+' : ''}{region.growthRate}% Pertumbuhan
                 </span>
                 <span className="text-gray-400 text-sm flex items-center bg-white/5 px-3 py-1 rounded-full border border-white/5">
                   <Icons.Database size={14} className="mr-2 text-neon-blue" /> 
@@ -77,19 +77,19 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
           {/* Key Metrics Grid */}
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
              <div className="p-5 rounded-xl bg-gradient-to-br from-white/5 to-transparent border border-white/10 hover:border-neon-cyan/30 transition duration-300">
-               <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Total Expenditure</p>
+               <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Total Pengeluaran</p>
                <p className="text-xl font-mono font-bold text-white">Rp {region.totalExpenditure.toLocaleString()} <span className="text-sm text-gray-500 font-sans">/cap</span></p>
              </div>
              <div className="p-5 rounded-xl bg-gradient-to-br from-white/5 to-transparent border border-white/10 hover:border-neon-purple/30 transition duration-300">
-               <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Fruit Exp.</p>
+               <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Pengeluaran Buah</p>
                <p className="text-xl font-mono font-bold text-white">Rp {region.expenditureFruit.toLocaleString()}</p>
              </div>
              <div className="p-5 rounded-xl bg-gradient-to-br from-white/5 to-transparent border border-white/10 hover:border-neon-blue/30 transition duration-300">
-               <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Veg Exp.</p>
+               <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Pengeluaran Sayur</p>
                <p className="text-xl font-mono font-bold text-white">Rp {region.expenditureVeg.toLocaleString()}</p>
              </div>
              <div className="p-5 rounded-xl bg-gradient-to-br from-white/5 to-transparent border border-white/10 hover:border-neon-pink/30 transition duration-300">
-               <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Est Market Demand</p>
+               <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Permintaan Pasar (Est)</p>
                <p className="text-xl font-mono font-bold text-white">{demandInTonnes.toFixed(1)}k <span className="text-sm text-gray-500 font-sans">Tonnes</span></p>
              </div>
           </div>
@@ -101,7 +101,7 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
             <div className="lg:col-span-2 p-6 rounded-2xl bg-black/40 border border-white/10">
               <h3 className="text-lg font-bold text-white mb-6 flex items-center">
                 <Icons.Activity size={18} className="mr-2 text-neon-blue" /> 
-                Expenditure Forecast
+                Perkiraan Pengeluaran
               </h3>
               <div className="h-[300px]">
                 <ResponsiveContainer width="100%" height="100%">
@@ -116,7 +116,7 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
                     />
                     <Legend wrapperStyle={{ paddingTop: '20px' }} />
                     <Line
-                      name="Expenditure"
+                      name="Pengeluaran Historis"
                       type="monotone"
                       dataKey="value"
                       stroke="#00f3ff"
@@ -133,7 +133,7 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
             <div className="p-6 rounded-2xl bg-black/40 border border-white/10 flex flex-col">
               <h3 className="text-lg font-bold text-white mb-6 flex items-center">
                 <Icons.PieChart size={18} className="mr-2 text-neon-pink" /> 
-                Supply vs Demand (Est)
+                Produksi vs Permintaan
               </h3>
               <div className="flex-1 h-[250px]">
                 <ResponsiveContainer width="100%" height="100%">
@@ -152,13 +152,6 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
                     </Bar>
                   </BarChart>
                 </ResponsiveContainer>
-              </div>
-              
-              <div className={`mt-4 p-3 rounded-lg border text-center ${isDeficit ? 'bg-neon-pink/10 border-neon-pink/30' : 'bg-neon-cyan/10 border-neon-cyan/30'}`}>
-                <p className="text-xs text-gray-400 uppercase tracking-wider mb-1">{isDeficit ? 'Supply Deficit' : 'Supply Surplus'}</p>
-                <p className={`text-lg font-mono font-bold ${isDeficit ? 'text-neon-pink' : 'text-neon-cyan'}`}>
-                   {Math.abs(deficit).toLocaleString(undefined, { maximumFractionDigits: 0 })} Tonnes
-                </p>
               </div>
             </div>
           </div>

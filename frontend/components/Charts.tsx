@@ -48,7 +48,7 @@ const CustomTooltip = ({ active, payload, label }: any) => {
 };
 
 export const ForecastChart: React.FC<ChartProps> = ({ data, onSelectRegion }) => {
-  const years = [2022, 2023, 2024, 2025, 2026];
+  const years = [2023, 2024, 2025, 2026];
 
   const chartData = years.map(year => {
     const point: any = { year };
