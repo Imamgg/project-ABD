@@ -1,0 +1,82 @@
+{
+  "api_version": "1.0.0",
+  "generated_at": "2025-11-29T12:37:11.155081",
+  "data_summary": {
+    "total_kabupaten": 514,
+    "total_clusters": 3,
+    "total_regions": 35,
+    "years_available": [
+      2024
+    ],
+    "total_records": 514
+  },
+  "files": {
+    "all_clusters.json": {
+      "description": "Complete clustering dataset with all kabupaten/kota",
+      "records": 514,
+      "size_kb": 149.11
+    },
+    "cluster_details.json": {
+      "description": "Detailed profile for each cluster including statistics and samples",
+      "clusters": 3,
+      "size_kb": 5.72
+    },
+    "predictions_full.json": {
+      "description": "Predictions for 2025 based on 2023-2024 trends",
+      "predictions": 0,
+      "size_kb": 0.25
+    },
+    "regional_analysis.json": {
+      "description": "Analysis grouped by region/province",
+      "regions": 35,
+      "size_kb": 20.48
+    },
+    "expenditure_trends.json": {
+      "description": "Year-over-year expenditure trends (2023-2024)",
+      "records": 0,
+      "size_kb": 0.17
+    }
+  },
+  "endpoints": [
+    {
+      "path": "/api/health",
+      "method": "GET",
+      "description": "Health check"
+    },
+    {
+      "path": "/api/clusters",
+      "method": "GET",
+      "description": "Get all clusters with filters"
+    },
+    {
+      "path": "/api/clusters/<id>",
+      "method": "GET",
+      "description": "Get specific cluster details"
+    },
+    {
+      "path": "/api/statistics",
+      "method": "GET",
+      "description": "Get summary statistics"
+    },
+    {
+      "path": "/api/predictions",
+      "method": "GET",
+      "description": "Get 2025 predictions"
+    },
+    {
+      "path": "/api/regions",
+      "method": "GET",
+      "description": "Get regional statistics"
+    },
+    {
+      "path": "/api/search",
+      "method": "GET",
+      "description": "Search kabupaten by name"
+    },
+    {
+      "path": "/api/visualization",
+      "method": "GET",
+      "description": "Get visualization data"
+    }
+  ]
+}

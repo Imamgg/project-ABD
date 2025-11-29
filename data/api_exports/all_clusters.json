@@ -1,0 +1,5157 @@
+{
+  "metadata": {
+    "total_records": 514,
+    "total_kabupaten": 514,
+    "years": [
+      2024
+    ],
+    "clusters": [
+      0,
+      1,
+      2
+    ],
+    "generated_at": "2025-11-29T12:37:10.753904"
+  },
+  "data": [
+    {
+      "Kabupaten_Kota": "Aceh Barat",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 11160.0,
+      "Pengeluaran_Sayur": 15821.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Barat Daya",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 7231.0,
+      "Pengeluaran_Sayur": 13790.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Besar",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 6689.0,
+      "Pengeluaran_Sayur": 14052.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Jaya",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 8789.0,
+      "Pengeluaran_Sayur": 14197.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Selatan",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 5682.0,
+      "Pengeluaran_Sayur": 14771.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Singkil",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 6363.0,
+      "Pengeluaran_Sayur": 17920.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Tamiang",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 7426.0,
+      "Pengeluaran_Sayur": 14233.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Tengah",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 14192.0,
+      "Pengeluaran_Sayur": 17119.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Tenggara",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 6046.0,
+      "Pengeluaran_Sayur": 14685.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Timur",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 5812.0,
+      "Pengeluaran_Sayur": 12709.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Aceh Utara",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 5004.0,
+      "Pengeluaran_Sayur": 10205.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Agam",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 7294.0,
+      "Pengeluaran_Sayur": 17737.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Alor",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4042.0,
+      "Pengeluaran_Sayur": 11379.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Asahan",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 7134.0,
+      "Pengeluaran_Sayur": 18091.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Asmat",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 8172.0,
+      "Pengeluaran_Sayur": 13805.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Badung",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 13811.0,
+      "Pengeluaran_Sayur": 16137.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Balangan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Selatan",
+      "Pengeluaran_Buah": 12583.0,
+      "Pengeluaran_Sayur": 10172.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bandung",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 7002.0,
+      "Pengeluaran_Sayur": 8937.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bandung Barat",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 7752.0,
+      "Pengeluaran_Sayur": 9936.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Banggai",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 13427.0,
+      "Pengeluaran_Sayur": 12394.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Banggai Kepulauan",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 10825.0,
+      "Pengeluaran_Sayur": 9432.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Banggai Laut",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 9591.0,
+      "Pengeluaran_Sayur": 12570.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bangka",
+      "Tahun": 2024,
+      "Region": "Bangka Belitung",
+      "Pengeluaran_Buah": 14568.0,
+      "Pengeluaran_Sayur": 18470.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bangka Barat",
+      "Tahun": 2024,
+      "Region": "Bangka Belitung",
+      "Pengeluaran_Buah": 13049.0,
+      "Pengeluaran_Sayur": 16093.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bangka Selatan",
+      "Tahun": 2024,
+      "Region": "Bangka Belitung",
+      "Pengeluaran_Buah": 9875.0,
+      "Pengeluaran_Sayur": 18668.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bangka Tengah",
+      "Tahun": 2024,
+      "Region": "Bangka Belitung",
+      "Pengeluaran_Buah": 14341.0,
+      "Pengeluaran_Sayur": 17738.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bangkalan",
+      "Tahun": 2024,
+      "Region": "Bangka Belitung",
+      "Pengeluaran_Buah": 4582.0,
+      "Pengeluaran_Sayur": 8863.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bangli",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 17278.0,
+      "Pengeluaran_Sayur": 15426.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Banjar",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 8118.0,
+      "Pengeluaran_Sayur": 9310.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Banjarnegara",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 7271.0,
+      "Pengeluaran_Sayur": 9474.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bantaeng",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 15117.0,
+      "Pengeluaran_Sayur": 10075.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bantul",
+      "Tahun": 2024,
+      "Region": "DI Yogyakarta",
+      "Pengeluaran_Buah": 10598.0,
+      "Pengeluaran_Sayur": 12560.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Banyu Asin",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 10575.0,
+      "Pengeluaran_Sayur": 17421.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Banyumas",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 10910.0,
+      "Pengeluaran_Sayur": 14857.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Banyuwangi",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 9730.0,
+      "Pengeluaran_Sayur": 15504.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Barito Kuala",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 7734.0,
+      "Pengeluaran_Sayur": 10375.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Barito Selatan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 8160.0,
+      "Pengeluaran_Sayur": 11842.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Barito Timur",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 11120.0,
+      "Pengeluaran_Sayur": 12321.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Barito Utara",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 10416.0,
+      "Pengeluaran_Sayur": 12752.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Barru",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 7198.0,
+      "Pengeluaran_Sayur": 7982.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Batang",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6936.0,
+      "Pengeluaran_Sayur": 11604.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Batang Hari",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 10398.0,
+      "Pengeluaran_Sayur": 19775.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Batu Bara",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 6388.0,
+      "Pengeluaran_Sayur": 15524.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bekasi",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 9843.0,
+      "Pengeluaran_Sayur": 16110.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Belitung",
+      "Tahun": 2024,
+      "Region": "Bangka Belitung",
+      "Pengeluaran_Buah": 14625.0,
+      "Pengeluaran_Sayur": 18675.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Belitung Timur",
+      "Tahun": 2024,
+      "Region": "Bangka Belitung",
+      "Pengeluaran_Buah": 13277.0,
+      "Pengeluaran_Sayur": 19429.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Belu",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 3092.0,
+      "Pengeluaran_Sayur": 12010.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bener Meriah",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 16958.0,
+      "Pengeluaran_Sayur": 21000.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bengkalis",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 7844.0,
+      "Pengeluaran_Sayur": 22523.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bengkayang",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 6467.0,
+      "Pengeluaran_Sayur": 12608.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bengkulu Selatan",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 9894.0,
+      "Pengeluaran_Sayur": 16806.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bengkulu Tengah",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 8525.0,
+      "Pengeluaran_Sayur": 21567.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bengkulu Utara",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 9730.0,
+      "Pengeluaran_Sayur": 21360.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Berau",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 11214.0,
+      "Pengeluaran_Sayur": 17595.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Biak Numfor",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 4719.0,
+      "Pengeluaran_Sayur": 18109.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bima",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 7682.0,
+      "Pengeluaran_Sayur": 8371.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bintan",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 7609.0,
+      "Pengeluaran_Sayur": 17378.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bireuen",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 7497.0,
+      "Pengeluaran_Sayur": 12718.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Blitar",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7179.0,
+      "Pengeluaran_Sayur": 11570.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Blora",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6715.0,
+      "Pengeluaran_Sayur": 10950.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Boalemo",
+      "Tahun": 2024,
+      "Region": "Gorontalo",
+      "Pengeluaran_Buah": 9107.0,
+      "Pengeluaran_Sayur": 11872.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bogor",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 8432.0,
+      "Pengeluaran_Sayur": 13031.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bojonegoro",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 5945.0,
+      "Pengeluaran_Sayur": 11761.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bolaang Mongondow",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 11944.0,
+      "Pengeluaran_Sayur": 12853.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bolaang Mongondow Selatan",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 7601.0,
+      "Pengeluaran_Sayur": 10309.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bolaang Mongondow Timur",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 11453.0,
+      "Pengeluaran_Sayur": 12663.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bolaang Mongondow Utara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 8437.0,
+      "Pengeluaran_Sayur": 9454.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bombana",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 11181.0,
+      "Pengeluaran_Sayur": 7530.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bondowoso",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7335.0,
+      "Pengeluaran_Sayur": 10548.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bone",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 6602.0,
+      "Pengeluaran_Sayur": 5870.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bone Bolango",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 6949.0,
+      "Pengeluaran_Sayur": 11466.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Boven Digoel",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 12218.0,
+      "Pengeluaran_Sayur": 18177.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Boyolali",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 7864.0,
+      "Pengeluaran_Sayur": 11059.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Brebes",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6117.0,
+      "Pengeluaran_Sayur": 9696.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Buleleng",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 9003.0,
+      "Pengeluaran_Sayur": 12483.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bulukumba",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 13161.0,
+      "Pengeluaran_Sayur": 8287.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bulungan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Utara",
+      "Pengeluaran_Buah": 11905.0,
+      "Pengeluaran_Sayur": 18310.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Bungo",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 20638.0,
+      "Pengeluaran_Sayur": 22504.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Buol",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 7971.0,
+      "Pengeluaran_Sayur": 9203.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Buru",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 11280.0,
+      "Pengeluaran_Sayur": 14228.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Buru Selatan",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 7552.0,
+      "Pengeluaran_Sayur": 10423.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Buton",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 7895.0,
+      "Pengeluaran_Sayur": 10180.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Buton Selatan",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 5527.0,
+      "Pengeluaran_Sayur": 8768.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Buton Tengah",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 5255.0,
+      "Pengeluaran_Sayur": 6202.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Buton Utara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 7081.0,
+      "Pengeluaran_Sayur": 7583.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ciamis",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 11979.0,
+      "Pengeluaran_Sayur": 11674.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Cianjur",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 9679.0,
+      "Pengeluaran_Sayur": 10642.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Cilacap",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6445.0,
+      "Pengeluaran_Sayur": 12159.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Cirebon",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 6628.0,
+      "Pengeluaran_Sayur": 9682.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Dairi",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 6396.0,
+      "Pengeluaran_Sayur": 15812.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Deiyai",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 10349.0,
+      "Pengeluaran_Sayur": 29163.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Deli Serdang",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 7165.0,
+      "Pengeluaran_Sayur": 17749.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Demak",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6398.0,
+      "Pengeluaran_Sayur": 11742.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Dharmasraya",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 17839.0,
+      "Pengeluaran_Sayur": 20938.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Dogiyai",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 17795.0,
+      "Pengeluaran_Sayur": 55758.0,
+      "Cluster": 2,
+      "Cluster_Label": "High Expenditure",
+      "Cluster_Category": "High Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Dompu",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 7094.0,
+      "Pengeluaran_Sayur": 10938.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Donggala",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 7628.0,
+      "Pengeluaran_Sayur": 9819.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Empat Lawang",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 9186.0,
+      "Pengeluaran_Sayur": 14223.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ende",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4485.0,
+      "Pengeluaran_Sayur": 12824.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Enrekang",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 16801.0,
+      "Pengeluaran_Sayur": 9318.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Fakfak",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 15995.0,
+      "Pengeluaran_Sayur": 20522.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Flores Timur",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4450.0,
+      "Pengeluaran_Sayur": 9634.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Garut",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 6602.0,
+      "Pengeluaran_Sayur": 8405.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Gayo Lues",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 8731.0,
+      "Pengeluaran_Sayur": 14544.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Gianyar",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 14206.0,
+      "Pengeluaran_Sayur": 14867.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Gorontalo",
+      "Tahun": 2024,
+      "Region": "Gorontalo",
+      "Pengeluaran_Buah": 5937.0,
+      "Pengeluaran_Sayur": 10417.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Gorontalo Utara",
+      "Tahun": 2024,
+      "Region": "Gorontalo",
+      "Pengeluaran_Buah": 7519.0,
+      "Pengeluaran_Sayur": 10700.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Gowa",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 10935.0,
+      "Pengeluaran_Sayur": 9508.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Gresik",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 11016.0,
+      "Pengeluaran_Sayur": 13313.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Grobogan",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 7285.0,
+      "Pengeluaran_Sayur": 12816.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Gunung Kidul",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 6372.0,
+      "Pengeluaran_Sayur": 13457.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Gunung Mas",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 8568.0,
+      "Pengeluaran_Sayur": 17121.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Halmahera Barat",
+      "Tahun": 2024,
+      "Region": "Maluku Utara",
+      "Pengeluaran_Buah": 9036.0,
+      "Pengeluaran_Sayur": 14445.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Halmahera Selatan",
+      "Tahun": 2024,
+      "Region": "Maluku Utara",
+      "Pengeluaran_Buah": 11051.0,
+      "Pengeluaran_Sayur": 14954.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Halmahera Tengah",
+      "Tahun": 2024,
+      "Region": "Maluku Utara",
+      "Pengeluaran_Buah": 13114.0,
+      "Pengeluaran_Sayur": 17098.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Halmahera Timur",
+      "Tahun": 2024,
+      "Region": "Maluku Utara",
+      "Pengeluaran_Buah": 11973.0,
+      "Pengeluaran_Sayur": 17020.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Halmahera Utara",
+      "Tahun": 2024,
+      "Region": "Gorontalo",
+      "Pengeluaran_Buah": 12600.0,
+      "Pengeluaran_Sayur": 15936.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Hulu Sungai Selatan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Selatan",
+      "Pengeluaran_Buah": 9124.0,
+      "Pengeluaran_Sayur": 9074.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Hulu Sungai Tengah",
+      "Tahun": 2024,
+      "Region": "Kalimantan Selatan",
+      "Pengeluaran_Buah": 10989.0,
+      "Pengeluaran_Sayur": 9176.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Hulu Sungai Utara",
+      "Tahun": 2024,
+      "Region": "Kalimantan Selatan",
+      "Pengeluaran_Buah": 7216.0,
+      "Pengeluaran_Sayur": 8734.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Humbang Hasundutan",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 9631.0,
+      "Pengeluaran_Sayur": 14752.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Indragiri Hilir",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 7742.0,
+      "Pengeluaran_Sayur": 16639.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Indragiri Hulu",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 8600.0,
+      "Pengeluaran_Sayur": 21869.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Indramayu",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 8692.0,
+      "Pengeluaran_Sayur": 13249.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Intan Jaya",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 10747.0,
+      "Pengeluaran_Sayur": 57450.0,
+      "Cluster": 2,
+      "Cluster_Label": "High Expenditure",
+      "Cluster_Category": "High Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Jayapura",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 5247.0,
+      "Pengeluaran_Sayur": 15183.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Jayawijaya",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 8185.0,
+      "Pengeluaran_Sayur": 18746.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Jember",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7380.0,
+      "Pengeluaran_Sayur": 11605.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Jembrana",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 8224.0,
+      "Pengeluaran_Sayur": 13397.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Jeneponto",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 6941.0,
+      "Pengeluaran_Sayur": 7417.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Jepara",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6559.0,
+      "Pengeluaran_Sayur": 10426.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Jombang",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7285.0,
+      "Pengeluaran_Sayur": 10472.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kaimana",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 16965.0,
+      "Pengeluaran_Sayur": 18530.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kampar",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 7643.0,
+      "Pengeluaran_Sayur": 21879.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kapuas",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 7128.0,
+      "Pengeluaran_Sayur": 10497.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kapuas Hulu",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 6875.0,
+      "Pengeluaran_Sayur": 14818.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Karanganyar",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 8999.0,
+      "Pengeluaran_Sayur": 12463.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Karangasem",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 8136.0,
+      "Pengeluaran_Sayur": 10260.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Karawang",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 8796.0,
+      "Pengeluaran_Sayur": 12681.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Karimun",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 8278.0,
+      "Pengeluaran_Sayur": 18044.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Karo",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 8906.0,
+      "Pengeluaran_Sayur": 22247.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Katingan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 7825.0,
+      "Pengeluaran_Sayur": 17221.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kaur",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 6988.0,
+      "Pengeluaran_Sayur": 15892.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kayong Utara",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 6606.0,
+      "Pengeluaran_Sayur": 12184.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kebumen",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 7301.0,
+      "Pengeluaran_Sayur": 11765.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kediri",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 6676.0,
+      "Pengeluaran_Sayur": 12151.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Keerom",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 6707.0,
+      "Pengeluaran_Sayur": 20885.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kendal",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 7827.0,
+      "Pengeluaran_Sayur": 11811.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kep. Seribu",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 11520.0,
+      "Pengeluaran_Sayur": 14684.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepahiang",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 8577.0,
+      "Pengeluaran_Sayur": 18705.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Anambas",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 10704.0,
+      "Pengeluaran_Sayur": 18913.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Aru",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 4869.0,
+      "Pengeluaran_Sayur": 12976.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Mentawai",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 15890.0,
+      "Pengeluaran_Sayur": 16329.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Meranti",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 5825.0,
+      "Pengeluaran_Sayur": 14209.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Sangihe",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 5969.0,
+      "Pengeluaran_Sayur": 12335.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Selayar",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 9430.0,
+      "Pengeluaran_Sayur": 9072.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Sula",
+      "Tahun": 2024,
+      "Region": "Maluku Utara",
+      "Pengeluaran_Buah": 8061.0,
+      "Pengeluaran_Sayur": 12061.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Talaud",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 8481.0,
+      "Pengeluaran_Sayur": 14806.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kepulauan Yapen",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 8062.0,
+      "Pengeluaran_Sayur": 19411.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kerinci",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 10779.0,
+      "Pengeluaran_Sayur": 18205.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ketapang",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 8222.0,
+      "Pengeluaran_Sayur": 14987.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Klaten",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 8534.0,
+      "Pengeluaran_Sayur": 11511.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Klungkung",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 7447.0,
+      "Pengeluaran_Sayur": 15326.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kolaka",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 13963.0,
+      "Pengeluaran_Sayur": 11281.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kolaka Timur",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 10764.0,
+      "Pengeluaran_Sayur": 9698.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kolaka Utara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 16425.0,
+      "Pengeluaran_Sayur": 7789.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Konawe",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 10011.0,
+      "Pengeluaran_Sayur": 9295.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Konawe Kepulauan",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 13327.0,
+      "Pengeluaran_Sayur": 8239.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Konawe Selatan",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 7386.0,
+      "Pengeluaran_Sayur": 10067.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Konawe Utara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 15167.0,
+      "Pengeluaran_Sayur": 10342.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Ambon",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 13112.0,
+      "Pengeluaran_Sayur": 15955.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Balikpapan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 13435.0,
+      "Pengeluaran_Sayur": 16177.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Banda Aceh",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 12518.0,
+      "Pengeluaran_Sayur": 15251.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bandar Lampung",
+      "Tahun": 2024,
+      "Region": "Lampung",
+      "Pengeluaran_Buah": 12678.0,
+      "Pengeluaran_Sayur": 16659.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bandung",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 12717.0,
+      "Pengeluaran_Sayur": 13007.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Banjar",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 12874.0,
+      "Pengeluaran_Sayur": 11514.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Banjar Baru",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 10519.0,
+      "Pengeluaran_Sayur": 12914.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Banjarmasin",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 9123.0,
+      "Pengeluaran_Sayur": 9428.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Baru",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 11513.0,
+      "Pengeluaran_Sayur": 12761.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Batam",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 12732.0,
+      "Pengeluaran_Sayur": 19654.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Batu",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 11983.0,
+      "Pengeluaran_Sayur": 12767.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Baubau",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 6954.0,
+      "Pengeluaran_Sayur": 7938.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bekasi",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 16300.0,
+      "Pengeluaran_Sayur": 20707.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bengkulu",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 13304.0,
+      "Pengeluaran_Sayur": 18380.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bima",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 13206.0,
+      "Pengeluaran_Sayur": 10105.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Binjai",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 9213.0,
+      "Pengeluaran_Sayur": 20530.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bitung",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 11560.0,
+      "Pengeluaran_Sayur": 13800.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Blitar",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 10466.0,
+      "Pengeluaran_Sayur": 10727.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bogor",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 10152.0,
+      "Pengeluaran_Sayur": 14605.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bontang",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 14116.0,
+      "Pengeluaran_Sayur": 15992.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Bukittinggi",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 10719.0,
+      "Pengeluaran_Sayur": 17957.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Cilegon",
+      "Tahun": 2024,
+      "Region": "Banten",
+      "Pengeluaran_Buah": 13792.0,
+      "Pengeluaran_Sayur": 15560.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Cimahi",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 10899.0,
+      "Pengeluaran_Sayur": 13132.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Cirebon",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 9405.0,
+      "Pengeluaran_Sayur": 11621.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Denpasar",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 11772.0,
+      "Pengeluaran_Sayur": 16174.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Depok",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 16963.0,
+      "Pengeluaran_Sayur": 19859.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Dumai",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 8856.0,
+      "Pengeluaran_Sayur": 18885.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Gorontalo",
+      "Tahun": 2024,
+      "Region": "Gorontalo",
+      "Pengeluaran_Buah": 10596.0,
+      "Pengeluaran_Sayur": 13035.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Gunungsitoli",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 2567.0,
+      "Pengeluaran_Sayur": 11151.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Jakarta Barat",
+      "Tahun": 2024,
+      "Region": "DKI Jakarta",
+      "Pengeluaran_Buah": 14490.0,
+      "Pengeluaran_Sayur": 15070.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Jakarta Pusat",
+      "Tahun": 2024,
+      "Region": "DKI Jakarta",
+      "Pengeluaran_Buah": 10641.0,
+      "Pengeluaran_Sayur": 16792.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Jakarta Selatan",
+      "Tahun": 2024,
+      "Region": "DKI Jakarta",
+      "Pengeluaran_Buah": 15382.0,
+      "Pengeluaran_Sayur": 22204.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Jakarta Timur",
+      "Tahun": 2024,
+      "Region": "DKI Jakarta",
+      "Pengeluaran_Buah": 13718.0,
+      "Pengeluaran_Sayur": 18027.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Jakarta Utara",
+      "Tahun": 2024,
+      "Region": "DKI Jakarta",
+      "Pengeluaran_Buah": 14598.0,
+      "Pengeluaran_Sayur": 17589.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Jambi",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 13742.0,
+      "Pengeluaran_Sayur": 17443.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Jayapura",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 10571.0,
+      "Pengeluaran_Sayur": 34327.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Kediri",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 9872.0,
+      "Pengeluaran_Sayur": 12556.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Kendari",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 12611.0,
+      "Pengeluaran_Sayur": 12569.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Kotamobagu",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 15364.0,
+      "Pengeluaran_Sayur": 12362.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Kupang",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 6379.0,
+      "Pengeluaran_Sayur": 15684.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Langsa",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 7349.0,
+      "Pengeluaran_Sayur": 14661.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Lhokseumawe",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 9053.0,
+      "Pengeluaran_Sayur": 15067.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Lubuklinggau",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 12375.0,
+      "Pengeluaran_Sayur": 14326.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Madiun",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 15288.0,
+      "Pengeluaran_Sayur": 13820.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Magelang",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 10013.0,
+      "Pengeluaran_Sayur": 12659.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Makasar",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 11058.0,
+      "Pengeluaran_Sayur": 13406.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Malang",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 11248.0,
+      "Pengeluaran_Sayur": 13248.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Manado",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 11119.0,
+      "Pengeluaran_Sayur": 14731.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Mataram",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 14019.0,
+      "Pengeluaran_Sayur": 13424.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Medan",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 9739.0,
+      "Pengeluaran_Sayur": 18265.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Metro",
+      "Tahun": 2024,
+      "Region": "Lampung",
+      "Pengeluaran_Buah": 13622.0,
+      "Pengeluaran_Sayur": 16262.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Mojokerto",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 9993.0,
+      "Pengeluaran_Sayur": 12933.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Padang",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 10696.0,
+      "Pengeluaran_Sayur": 21574.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Padang Panjang",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 10988.0,
+      "Pengeluaran_Sayur": 17058.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Padangsidimpuan",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 7679.0,
+      "Pengeluaran_Sayur": 16543.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Pagar Alam",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 11094.0,
+      "Pengeluaran_Sayur": 14744.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Palangka Raya",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 9722.0,
+      "Pengeluaran_Sayur": 13894.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Palembang",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 12613.0,
+      "Pengeluaran_Sayur": 14707.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Palopo",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 16788.0,
+      "Pengeluaran_Sayur": 9393.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Palu",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 9080.0,
+      "Pengeluaran_Sayur": 11940.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Pangkal Pinang",
+      "Tahun": 2024,
+      "Region": "Bangka Belitung",
+      "Pengeluaran_Buah": 17709.0,
+      "Pengeluaran_Sayur": 22029.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Parepare",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 8732.0,
+      "Pengeluaran_Sayur": 8305.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Pariaman",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 9194.0,
+      "Pengeluaran_Sayur": 17094.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Pasuruan",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 12288.0,
+      "Pengeluaran_Sayur": 11238.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Payakumbuh",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 10447.0,
+      "Pengeluaran_Sayur": 17910.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Pekalongan",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6360.0,
+      "Pengeluaran_Sayur": 10667.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Pekanbaru",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 10295.0,
+      "Pengeluaran_Sayur": 19445.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Pematang Siantar",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 10567.0,
+      "Pengeluaran_Sayur": 14584.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Pontianak",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 10867.0,
+      "Pengeluaran_Sayur": 12986.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Prabumulih",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 8929.0,
+      "Pengeluaran_Sayur": 12588.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Probolinggo",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 6563.0,
+      "Pengeluaran_Sayur": 7663.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Sabang",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 9582.0,
+      "Pengeluaran_Sayur": 16573.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Salatiga",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 14150.0,
+      "Pengeluaran_Sayur": 14133.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Samarinda",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 12485.0,
+      "Pengeluaran_Sayur": 14713.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Sawah Lunto",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 9739.0,
+      "Pengeluaran_Sayur": 22570.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Semarang",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 12475.0,
+      "Pengeluaran_Sayur": 16744.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Serang",
+      "Tahun": 2024,
+      "Region": "Banten",
+      "Pengeluaran_Buah": 9344.0,
+      "Pengeluaran_Sayur": 12717.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Sibolga",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 8362.0,
+      "Pengeluaran_Sayur": 13030.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Singkawang",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 10996.0,
+      "Pengeluaran_Sayur": 11458.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Solok",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 10677.0,
+      "Pengeluaran_Sayur": 19306.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Sorong",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 7888.0,
+      "Pengeluaran_Sayur": 19307.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Subulussalam",
+      "Tahun": 2024,
+      "Region": "Aceh",
+      "Pengeluaran_Buah": 6226.0,
+      "Pengeluaran_Sayur": 13635.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Sukabumi",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 13078.0,
+      "Pengeluaran_Sayur": 11673.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Sungai Penuh",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 9230.0,
+      "Pengeluaran_Sayur": 16685.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Surabaya",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 15153.0,
+      "Pengeluaran_Sayur": 16478.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Surakarta",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 9502.0,
+      "Pengeluaran_Sayur": 13693.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tangerang",
+      "Tahun": 2024,
+      "Region": "Banten",
+      "Pengeluaran_Buah": 15713.0,
+      "Pengeluaran_Sayur": 18702.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tangerang Selatan",
+      "Tahun": 2024,
+      "Region": "Banten",
+      "Pengeluaran_Buah": 14047.0,
+      "Pengeluaran_Sayur": 19428.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tanjung Balai",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 9501.0,
+      "Pengeluaran_Sayur": 14499.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tanjung Pinang",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 11005.0,
+      "Pengeluaran_Sayur": 16885.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tarakan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Utara",
+      "Pengeluaran_Buah": 8685.0,
+      "Pengeluaran_Sayur": 13806.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tasikmalaya",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 13430.0,
+      "Pengeluaran_Sayur": 9361.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tebing Tinggi",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 9095.0,
+      "Pengeluaran_Sayur": 17628.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tegal",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 7366.0,
+      "Pengeluaran_Sayur": 9915.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Ternate",
+      "Tahun": 2024,
+      "Region": "Maluku Utara",
+      "Pengeluaran_Buah": 19293.0,
+      "Pengeluaran_Sayur": 20368.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tidore Kepulauan",
+      "Tahun": 2024,
+      "Region": "Maluku Utara",
+      "Pengeluaran_Buah": 15130.0,
+      "Pengeluaran_Sayur": 16212.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tomohon",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 13280.0,
+      "Pengeluaran_Sayur": 15396.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Tual",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 8913.0,
+      "Pengeluaran_Sayur": 13739.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kota Yogyakarta",
+      "Tahun": 2024,
+      "Region": "DI Yogyakarta",
+      "Pengeluaran_Buah": 10971.0,
+      "Pengeluaran_Sayur": 11934.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kotawaringin Barat",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 12232.0,
+      "Pengeluaran_Sayur": 20001.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kotawaringin Timur",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 9253.0,
+      "Pengeluaran_Sayur": 16969.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kuantan Singingi",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 8118.0,
+      "Pengeluaran_Sayur": 22773.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kubu Raya",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 5931.0,
+      "Pengeluaran_Sayur": 10171.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kudus",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 7844.0,
+      "Pengeluaran_Sayur": 10849.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kulon Progo",
+      "Tahun": 2024,
+      "Region": "DI Yogyakarta",
+      "Pengeluaran_Buah": 7333.0,
+      "Pengeluaran_Sayur": 10575.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kuningan",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 6396.0,
+      "Pengeluaran_Sayur": 9979.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kupang",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 3543.0,
+      "Pengeluaran_Sayur": 12152.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kutai Barat",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 13134.0,
+      "Pengeluaran_Sayur": 13171.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kutai Kartanegara",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 13568.0,
+      "Pengeluaran_Sayur": 15578.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Kutai Timur",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 14032.0,
+      "Pengeluaran_Sayur": 16835.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Labuhan Batu",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 6041.0,
+      "Pengeluaran_Sayur": 15950.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Labuhan Batu Selatan",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 5672.0,
+      "Pengeluaran_Sayur": 17317.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Labuhan Batu Utara",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 6464.0,
+      "Pengeluaran_Sayur": 16161.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lahat",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 10984.0,
+      "Pengeluaran_Sayur": 18253.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lamandau",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 14142.0,
+      "Pengeluaran_Sayur": 22772.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lamongan",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7178.0,
+      "Pengeluaran_Sayur": 11507.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lampung Barat",
+      "Tahun": 2024,
+      "Region": "Lampung",
+      "Pengeluaran_Buah": 10689.0,
+      "Pengeluaran_Sayur": 15761.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lampung Selatan",
+      "Tahun": 2024,
+      "Region": "Lampung",
+      "Pengeluaran_Buah": 10673.0,
+      "Pengeluaran_Sayur": 15388.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lampung Tengah",
+      "Tahun": 2024,
+      "Region": "Lampung",
+      "Pengeluaran_Buah": 8609.0,
+      "Pengeluaran_Sayur": 16256.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lampung Timur",
+      "Tahun": 2024,
+      "Region": "Lampung",
+      "Pengeluaran_Buah": 6330.0,
+      "Pengeluaran_Sayur": 13395.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lampung Utara",
+      "Tahun": 2024,
+      "Region": "Lampung",
+      "Pengeluaran_Buah": 5834.0,
+      "Pengeluaran_Sayur": 15148.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Landak",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 9331.0,
+      "Pengeluaran_Sayur": 15573.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Langkat",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 5939.0,
+      "Pengeluaran_Sayur": 17528.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lanny Jaya",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 4550.0,
+      "Pengeluaran_Sayur": 31895.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lebak",
+      "Tahun": 2024,
+      "Region": "Banten",
+      "Pengeluaran_Buah": 11484.0,
+      "Pengeluaran_Sayur": 10484.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lebong",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 11058.0,
+      "Pengeluaran_Sayur": 20610.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lembata",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 5232.0,
+      "Pengeluaran_Sayur": 9415.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lima Puluh Kota",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 7591.0,
+      "Pengeluaran_Sayur": 20821.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lingga",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 8812.0,
+      "Pengeluaran_Sayur": 13583.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lombok Barat",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 10901.0,
+      "Pengeluaran_Sayur": 11983.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lombok Tengah",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 8423.0,
+      "Pengeluaran_Sayur": 13845.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lombok Timur",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 15474.0,
+      "Pengeluaran_Sayur": 15452.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lombok Utara",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 10737.0,
+      "Pengeluaran_Sayur": 13504.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Lumajang",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 10299.0,
+      "Pengeluaran_Sayur": 12423.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Luwu",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 10017.0,
+      "Pengeluaran_Sayur": 8921.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Luwu Timur",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 12204.0,
+      "Pengeluaran_Sayur": 10277.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Luwu Utara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 14232.0,
+      "Pengeluaran_Sayur": 10207.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Madiun",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7408.0,
+      "Pengeluaran_Sayur": 12231.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Magelang",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 7186.0,
+      "Pengeluaran_Sayur": 10041.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Magetan",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7647.0,
+      "Pengeluaran_Sayur": 11818.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mahakam Ulu",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 8560.0,
+      "Pengeluaran_Sayur": 22812.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Majalengka",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 7398.0,
+      "Pengeluaran_Sayur": 10034.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Majene",
+      "Tahun": 2024,
+      "Region": "Sulawesi Barat",
+      "Pengeluaran_Buah": 7725.0,
+      "Pengeluaran_Sayur": 8102.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Malaka",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4185.0,
+      "Pengeluaran_Sayur": 11763.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Malang",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 8778.0,
+      "Pengeluaran_Sayur": 12368.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Malinau",
+      "Tahun": 2024,
+      "Region": "Kalimantan Utara",
+      "Pengeluaran_Buah": 9173.0,
+      "Pengeluaran_Sayur": 20385.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Maluku Barat Daya",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 9410.0,
+      "Pengeluaran_Sayur": 17725.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Maluku Tengah",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 11952.0,
+      "Pengeluaran_Sayur": 14795.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Maluku Tenggara",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 8988.0,
+      "Pengeluaran_Sayur": 14169.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Maluku Tenggara Barat",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 4993.0,
+      "Pengeluaran_Sayur": 13164.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mamasa",
+      "Tahun": 2024,
+      "Region": "Sulawesi Barat",
+      "Pengeluaran_Buah": 7928.0,
+      "Pengeluaran_Sayur": 7189.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mamberamo Raya",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 2230.0,
+      "Pengeluaran_Sayur": 44009.0,
+      "Cluster": 2,
+      "Cluster_Label": "High Expenditure",
+      "Cluster_Category": "High Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mamberamo Tengah",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 10107.0,
+      "Pengeluaran_Sayur": 39735.0,
+      "Cluster": 2,
+      "Cluster_Label": "High Expenditure",
+      "Cluster_Category": "High Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mamuju",
+      "Tahun": 2024,
+      "Region": "Sulawesi Barat",
+      "Pengeluaran_Buah": 8338.0,
+      "Pengeluaran_Sayur": 9206.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mamuju Tengah",
+      "Tahun": 2024,
+      "Region": "Sulawesi Barat",
+      "Pengeluaran_Buah": 7534.0,
+      "Pengeluaran_Sayur": 10857.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mamuju Utara",
+      "Tahun": 2024,
+      "Region": "Gorontalo",
+      "Pengeluaran_Buah": 7689.0,
+      "Pengeluaran_Sayur": 11720.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mandailing Natal",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 3689.0,
+      "Pengeluaran_Sayur": 16147.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Manggarai",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 3564.0,
+      "Pengeluaran_Sayur": 13287.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Manggarai Barat",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4436.0,
+      "Pengeluaran_Sayur": 10412.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Manggarai Timur",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4025.0,
+      "Pengeluaran_Sayur": 8865.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Manokwari",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 7462.0,
+      "Pengeluaran_Sayur": 20114.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Manokwari Selatan",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 12679.0,
+      "Pengeluaran_Sayur": 27249.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mappi",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 9331.0,
+      "Pengeluaran_Sayur": 17253.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Maros",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 8613.0,
+      "Pengeluaran_Sayur": 7990.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Maybrat",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 7157.0,
+      "Pengeluaran_Sayur": 18026.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Melawi",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 6920.0,
+      "Pengeluaran_Sayur": 14655.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mempawah",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 7330.0,
+      "Pengeluaran_Sayur": 10113.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Merangin",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 17034.0,
+      "Pengeluaran_Sayur": 21721.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Merauke",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 12140.0,
+      "Pengeluaran_Sayur": 23464.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mesuji",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 7528.0,
+      "Pengeluaran_Sayur": 17067.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mimika",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 8201.0,
+      "Pengeluaran_Sayur": 16923.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Minahasa",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 13267.0,
+      "Pengeluaran_Sayur": 14141.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Minahasa Selatan",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 9956.0,
+      "Pengeluaran_Sayur": 13113.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Minahasa Tenggara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 10581.0,
+      "Pengeluaran_Sayur": 12539.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Minahasa Utara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 10470.0,
+      "Pengeluaran_Sayur": 13594.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mojokerto",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 8499.0,
+      "Pengeluaran_Sayur": 11243.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Morowali",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 15223.0,
+      "Pengeluaran_Sayur": 16887.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Morowali Utara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 12148.0,
+      "Pengeluaran_Sayur": 15182.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Muara Enim",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 9338.0,
+      "Pengeluaran_Sayur": 16468.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Muaro Jambi",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 13088.0,
+      "Pengeluaran_Sayur": 20801.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Mukomuko",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 12522.0,
+      "Pengeluaran_Sayur": 23996.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Muna",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 5785.0,
+      "Pengeluaran_Sayur": 5778.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Muna Barat",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 9091.0,
+      "Pengeluaran_Sayur": 7658.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Murung Raya",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 5908.0,
+      "Pengeluaran_Sayur": 14351.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Musi Banyuasin",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 11793.0,
+      "Pengeluaran_Sayur": 17208.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Musi Rawas",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 11758.0,
+      "Pengeluaran_Sayur": 15961.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Musi Rawas Utara",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 9497.0,
+      "Pengeluaran_Sayur": 15260.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nabire",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 7545.0,
+      "Pengeluaran_Sayur": 15595.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nagan Raya",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 12722.0,
+      "Pengeluaran_Sayur": 21928.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nagekeo",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 4959.0,
+      "Pengeluaran_Sayur": 9668.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Natuna",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 10534.0,
+      "Pengeluaran_Sayur": 16284.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nduga",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 25802.0,
+      "Pengeluaran_Sayur": 81168.0,
+      "Cluster": 2,
+      "Cluster_Label": "High Expenditure",
+      "Cluster_Category": "High Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ngada",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 7096.0,
+      "Pengeluaran_Sayur": 15919.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nganjuk",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 6365.0,
+      "Pengeluaran_Sayur": 12153.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ngawi",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 9985.0,
+      "Pengeluaran_Sayur": 14882.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nias",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 3706.0,
+      "Pengeluaran_Sayur": 11276.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nias Barat",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 2411.0,
+      "Pengeluaran_Sayur": 7832.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nias Selatan",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 2389.0,
+      "Pengeluaran_Sayur": 12098.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nias Utara",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 2789.0,
+      "Pengeluaran_Sayur": 10324.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Nunukan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Utara",
+      "Pengeluaran_Buah": 7455.0,
+      "Pengeluaran_Sayur": 14504.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ogan Ilir",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 10733.0,
+      "Pengeluaran_Sayur": 12340.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ogan Komering Ilir",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 12015.0,
+      "Pengeluaran_Sayur": 17033.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ogan Komering Ulu",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 7359.0,
+      "Pengeluaran_Sayur": 11395.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ogan Komering Ulu Selatan",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 9845.0,
+      "Pengeluaran_Sayur": 14233.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ogan Komering Ulu Timur",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 9149.0,
+      "Pengeluaran_Sayur": 13828.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pacitan",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 6823.0,
+      "Pengeluaran_Sayur": 12004.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Padang Lawas",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 6120.0,
+      "Pengeluaran_Sayur": 16544.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Padang Lawas Utara",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 5093.0,
+      "Pengeluaran_Sayur": 14907.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Padang Pariaman",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 6270.0,
+      "Pengeluaran_Sayur": 18055.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pakpak Bharat",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 8061.0,
+      "Pengeluaran_Sayur": 14244.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pamekasan",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 3811.0,
+      "Pengeluaran_Sayur": 7001.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pandeglang",
+      "Tahun": 2024,
+      "Region": "Banten",
+      "Pengeluaran_Buah": 6695.0,
+      "Pengeluaran_Sayur": 10237.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pangandaran",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 14950.0,
+      "Pengeluaran_Sayur": 14367.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pangkajene dan Kepulauan",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 9730.0,
+      "Pengeluaran_Sayur": 8537.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Paniai",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 4763.0,
+      "Pengeluaran_Sayur": 16585.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Parigi Moutong",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 8151.0,
+      "Pengeluaran_Sayur": 9926.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pasaman",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 5126.0,
+      "Pengeluaran_Sayur": 17726.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pasaman Barat",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 6236.0,
+      "Pengeluaran_Sayur": 19057.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Paser",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 12025.0,
+      "Pengeluaran_Sayur": 15278.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pasuruan",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 8476.0,
+      "Pengeluaran_Sayur": 9365.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pati",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 10857.0,
+      "Pengeluaran_Sayur": 12330.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pegunungan Arfak",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 7540.0,
+      "Pengeluaran_Sayur": 16034.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pegunungan Bintang",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 9125.0,
+      "Pengeluaran_Sayur": 22438.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pekalongan",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 7291.0,
+      "Pengeluaran_Sayur": 10566.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pelalawan",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 8833.0,
+      "Pengeluaran_Sayur": 22520.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pemalang",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 7391.0,
+      "Pengeluaran_Sayur": 11411.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Penajam Paser Utara",
+      "Tahun": 2024,
+      "Region": "Kalimantan Timur",
+      "Pengeluaran_Buah": 10235.0,
+      "Pengeluaran_Sayur": 14557.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Penukal Abab Lematang Ilir",
+      "Tahun": 2024,
+      "Region": "Sumatera Selatan",
+      "Pengeluaran_Buah": 7500.0,
+      "Pengeluaran_Sayur": 12480.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pesawaran",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 11573.0,
+      "Pengeluaran_Sayur": 17297.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pesisir Barat",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 10107.0,
+      "Pengeluaran_Sayur": 19912.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pesisir Selatan",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 6372.0,
+      "Pengeluaran_Sayur": 21168.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pidie",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 7213.0,
+      "Pengeluaran_Sayur": 12984.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pidie Jaya",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 7558.0,
+      "Pengeluaran_Sayur": 13373.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pinrang",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 10326.0,
+      "Pengeluaran_Sayur": 7689.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pohuwato",
+      "Tahun": 2024,
+      "Region": "Gorontalo",
+      "Pengeluaran_Buah": 8074.0,
+      "Pengeluaran_Sayur": 9733.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Polewali Mandar",
+      "Tahun": 2024,
+      "Region": "Sulawesi Barat",
+      "Pengeluaran_Buah": 10246.0,
+      "Pengeluaran_Sayur": 7928.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Ponorogo",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 6571.0,
+      "Pengeluaran_Sayur": 11697.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Poso",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 10673.0,
+      "Pengeluaran_Sayur": 13934.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pringsewu",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 9019.0,
+      "Pengeluaran_Sayur": 13921.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Probolinggo",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 6165.0,
+      "Pengeluaran_Sayur": 8747.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pulang Pisau",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 9992.0,
+      "Pengeluaran_Sayur": 16504.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pulau Morotai",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 7666.0,
+      "Pengeluaran_Sayur": 17554.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Pulau Taliabu",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 13784.0,
+      "Pengeluaran_Sayur": 11080.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Puncak",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 3981.0,
+      "Pengeluaran_Sayur": 28665.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Puncak Jaya",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 6745.0,
+      "Pengeluaran_Sayur": 14084.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Purbalingga",
+      "Tahun": 2024,
+      "Region": "Kepulauan Riau",
+      "Pengeluaran_Buah": 8349.0,
+      "Pengeluaran_Sayur": 11437.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Purwakarta",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 9513.0,
+      "Pengeluaran_Sayur": 10273.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Purworejo",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 8384.0,
+      "Pengeluaran_Sayur": 13354.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Raja Ampat",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 10993.0,
+      "Pengeluaran_Sayur": 15136.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Rejang Lebong",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 9415.0,
+      "Pengeluaran_Sayur": 19601.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Rembang",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 8403.0,
+      "Pengeluaran_Sayur": 12792.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Rokan Hilir",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 7162.0,
+      "Pengeluaran_Sayur": 18185.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Rokan Hulu",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 9723.0,
+      "Pengeluaran_Sayur": 25104.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Rote Ndao",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 1395.0,
+      "Pengeluaran_Sayur": 10804.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sabu Raijua",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 3367.0,
+      "Pengeluaran_Sayur": 15543.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sambas",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 7340.0,
+      "Pengeluaran_Sayur": 9006.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Samosir",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 10145.0,
+      "Pengeluaran_Sayur": 19608.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sampang",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 2811.0,
+      "Pengeluaran_Sayur": 8178.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sanggau",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 5801.0,
+      "Pengeluaran_Sayur": 13658.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sarmi",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 3052.0,
+      "Pengeluaran_Sayur": 32419.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sarolangun",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 13960.0,
+      "Pengeluaran_Sayur": 18711.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sekadau",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 12255.0,
+      "Pengeluaran_Sayur": 16232.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Seluma",
+      "Tahun": 2024,
+      "Region": "Bengkulu",
+      "Pengeluaran_Buah": 7522.0,
+      "Pengeluaran_Sayur": 17363.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Semarang",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 10408.0,
+      "Pengeluaran_Sayur": 13577.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Seram Bagian Barat",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 10078.0,
+      "Pengeluaran_Sayur": 11563.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Seram Bagian Timur",
+      "Tahun": 2024,
+      "Region": "Maluku",
+      "Pengeluaran_Buah": 13984.0,
+      "Pengeluaran_Sayur": 11231.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Serang",
+      "Tahun": 2024,
+      "Region": "Banten",
+      "Pengeluaran_Buah": 9329.0,
+      "Pengeluaran_Sayur": 13279.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Serdang Bedagai",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 6076.0,
+      "Pengeluaran_Sayur": 15435.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Seruyan",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 11054.0,
+      "Pengeluaran_Sayur": 17060.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Siak",
+      "Tahun": 2024,
+      "Region": "Riau",
+      "Pengeluaran_Buah": 8303.0,
+      "Pengeluaran_Sayur": 22056.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Siau Tagulandang Biaro",
+      "Tahun": 2024,
+      "Region": "Sulawesi Utara",
+      "Pengeluaran_Buah": 11546.0,
+      "Pengeluaran_Sayur": 13573.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sidenreng Rappang",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 11245.0,
+      "Pengeluaran_Sayur": 9911.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sidoarjo",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 11957.0,
+      "Pengeluaran_Sayur": 14194.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sigi",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 7488.0,
+      "Pengeluaran_Sayur": 13476.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sijunjung",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 8582.0,
+      "Pengeluaran_Sayur": 21635.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sikka",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4810.0,
+      "Pengeluaran_Sayur": 9252.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Simalungun",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 7460.0,
+      "Pengeluaran_Sayur": 16398.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Simeulue",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 3978.0,
+      "Pengeluaran_Sayur": 13152.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sinjai",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 12006.0,
+      "Pengeluaran_Sayur": 8669.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sintang",
+      "Tahun": 2024,
+      "Region": "Kalimantan Barat",
+      "Pengeluaran_Buah": 7211.0,
+      "Pengeluaran_Sayur": 17409.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Situbondo",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 6327.0,
+      "Pengeluaran_Sayur": 8686.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sleman",
+      "Tahun": 2024,
+      "Region": "DI Yogyakarta",
+      "Pengeluaran_Buah": 13381.0,
+      "Pengeluaran_Sayur": 13902.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Solok",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 6588.0,
+      "Pengeluaran_Sayur": 21085.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Solok Selatan",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 7666.0,
+      "Pengeluaran_Sayur": 22891.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Soppeng",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 9154.0,
+      "Pengeluaran_Sayur": 8073.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sorong",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 5249.0,
+      "Pengeluaran_Sayur": 18548.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sorong Selatan",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 8768.0,
+      "Pengeluaran_Sayur": 22267.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sragen",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 8632.0,
+      "Pengeluaran_Sayur": 14650.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Subang",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 8881.0,
+      "Pengeluaran_Sayur": 10957.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sukabumi",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 10662.0,
+      "Pengeluaran_Sayur": 10572.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sukamara",
+      "Tahun": 2024,
+      "Region": "Kalimantan Tengah",
+      "Pengeluaran_Buah": 15057.0,
+      "Pengeluaran_Sayur": 17257.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sukoharjo",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 9218.0,
+      "Pengeluaran_Sayur": 12183.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sumba Barat",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 2718.0,
+      "Pengeluaran_Sayur": 9957.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sumba Barat Daya",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4100.0,
+      "Pengeluaran_Sayur": 8970.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sumba Tengah",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 3409.0,
+      "Pengeluaran_Sayur": 11498.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sumba Timur",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 3406.0,
+      "Pengeluaran_Sayur": 13985.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sumbawa",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 10927.0,
+      "Pengeluaran_Sayur": 11981.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sumbawa Barat",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Barat",
+      "Pengeluaran_Buah": 16109.0,
+      "Pengeluaran_Sayur": 13281.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sumedang",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 9376.0,
+      "Pengeluaran_Sayur": 10265.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Sumenep",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 8677.0,
+      "Pengeluaran_Sayur": 12279.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Supiori",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 4558.0,
+      "Pengeluaran_Sayur": 47446.0,
+      "Cluster": 2,
+      "Cluster_Label": "High Expenditure",
+      "Cluster_Category": "High Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tabalong",
+      "Tahun": 2024,
+      "Region": "Kalimantan Selatan",
+      "Pengeluaran_Buah": 14530.0,
+      "Pengeluaran_Sayur": 11717.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tabanan",
+      "Tahun": 2024,
+      "Region": "Bali",
+      "Pengeluaran_Buah": 11266.0,
+      "Pengeluaran_Sayur": 13467.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Takalar",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 7918.0,
+      "Pengeluaran_Sayur": 6980.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tambrauw",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 9559.0,
+      "Pengeluaran_Sayur": 17851.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tana Tidung",
+      "Tahun": 2024,
+      "Region": "Kalimantan Utara",
+      "Pengeluaran_Buah": 10346.0,
+      "Pengeluaran_Sayur": 18857.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tana Toraja",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 6072.0,
+      "Pengeluaran_Sayur": 11022.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tanah Bumbu",
+      "Tahun": 2024,
+      "Region": "Kalimantan Selatan",
+      "Pengeluaran_Buah": 12211.0,
+      "Pengeluaran_Sayur": 14578.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tanah Datar",
+      "Tahun": 2024,
+      "Region": "Sumatera Barat",
+      "Pengeluaran_Buah": 8919.0,
+      "Pengeluaran_Sayur": 18331.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tanah Laut",
+      "Tahun": 2024,
+      "Region": "Kalimantan Selatan",
+      "Pengeluaran_Buah": 7856.0,
+      "Pengeluaran_Sayur": 12425.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tangerang",
+      "Tahun": 2024,
+      "Region": "Banten",
+      "Pengeluaran_Buah": 8517.0,
+      "Pengeluaran_Sayur": 15031.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tanggamus",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 7608.0,
+      "Pengeluaran_Sayur": 14336.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tanjung Jabung Barat",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 8248.0,
+      "Pengeluaran_Sayur": 17517.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tanjung Jabung Timur",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 10383.0,
+      "Pengeluaran_Sayur": 20781.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tapanuli Selatan",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 5063.0,
+      "Pengeluaran_Sayur": 15858.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tapanuli Tengah",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 6169.0,
+      "Pengeluaran_Sayur": 12713.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tapanuli Utara",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 9033.0,
+      "Pengeluaran_Sayur": 13957.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tapin",
+      "Tahun": 2024,
+      "Region": "Kalimantan Selatan",
+      "Pengeluaran_Buah": 10881.0,
+      "Pengeluaran_Sayur": 11698.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tasikmalaya",
+      "Tahun": 2024,
+      "Region": "Jawa Barat",
+      "Pengeluaran_Buah": 9851.0,
+      "Pengeluaran_Sayur": 7713.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tebo",
+      "Tahun": 2024,
+      "Region": "Jambi",
+      "Pengeluaran_Buah": 11133.0,
+      "Pengeluaran_Sayur": 19598.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tegal",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 5581.0,
+      "Pengeluaran_Sayur": 9979.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Teluk Bintuni",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 11297.0,
+      "Pengeluaran_Sayur": 19855.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Teluk Wondama",
+      "Tahun": 2024,
+      "Region": "Papua Barat",
+      "Pengeluaran_Buah": 9473.0,
+      "Pengeluaran_Sayur": 17049.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Temanggung",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6377.0,
+      "Pengeluaran_Sayur": 11245.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Timor Tengah Selatan",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4287.0,
+      "Pengeluaran_Sayur": 13822.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Timor Tengah Utara",
+      "Tahun": 2024,
+      "Region": "Nusa Tenggara Timur",
+      "Pengeluaran_Buah": 4132.0,
+      "Pengeluaran_Sayur": 14566.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Toba Samosir",
+      "Tahun": 2024,
+      "Region": "Sumatera Utara",
+      "Pengeluaran_Buah": 12956.0,
+      "Pengeluaran_Sayur": 15410.0,
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "Cluster_Category": "Low Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tojo Una-Una",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 6626.0,
+      "Pengeluaran_Sayur": 9856.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Toli-Toli",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tengah",
+      "Pengeluaran_Buah": 5259.0,
+      "Pengeluaran_Sayur": 8417.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tolikara",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 7560.0,
+      "Pengeluaran_Sayur": 20040.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Toraja Utara",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 6346.0,
+      "Pengeluaran_Sayur": 10788.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Trenggalek",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7696.0,
+      "Pengeluaran_Sayur": 11033.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tuban",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 8445.0,
+      "Pengeluaran_Sayur": 12014.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tulang Bawang Barat",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 6347.0,
+      "Pengeluaran_Sayur": 16169.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tulangbawang",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 7215.0,
+      "Pengeluaran_Sayur": 16189.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Tulungagung",
+      "Tahun": 2024,
+      "Region": "Jawa Timur",
+      "Pengeluaran_Buah": 7650.0,
+      "Pengeluaran_Sayur": 12318.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Wajo",
+      "Tahun": 2024,
+      "Region": "Sulawesi Selatan",
+      "Pengeluaran_Buah": 9300.0,
+      "Pengeluaran_Sayur": 7939.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Wakatobi",
+      "Tahun": 2024,
+      "Region": "Sulawesi Tenggara",
+      "Pengeluaran_Buah": 7320.0,
+      "Pengeluaran_Sayur": 10448.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Waropen",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 1879.0,
+      "Pengeluaran_Sayur": 32338.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Way Kanan",
+      "Tahun": 2024,
+      "Region": "Lainnya",
+      "Pengeluaran_Buah": 8584.0,
+      "Pengeluaran_Sayur": 16976.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Wonogiri",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6870.0,
+      "Pengeluaran_Sayur": 12967.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Wonosobo",
+      "Tahun": 2024,
+      "Region": "Jawa Tengah",
+      "Pengeluaran_Buah": 6803.0,
+      "Pengeluaran_Sayur": 8599.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Yahukimo",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 6519.0,
+      "Pengeluaran_Sayur": 14813.0,
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "Cluster_Category": "Balanced Expenditure"
+    },
+    {
+      "Kabupaten_Kota": "Yalimo",
+      "Tahun": 2024,
+      "Region": "Papua",
+      "Pengeluaran_Buah": 13414.0,
+      "Pengeluaran_Sayur": 63021.0,
+      "Cluster": 2,
+      "Cluster_Label": "High Expenditure",
+      "Cluster_Category": "High Expenditure"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+Endpoint: api/regions
+{
+  "data": [
+    {
+      "Avg_Buah": 8070.125,
+      "Avg_Sayur": 14668.0625,
+      "Count": 16,
+      "Region": "Aceh"
+    },
+    {
+      "Avg_Buah": 11238.111111111111,
+      "Avg_Sayur": 14170.777777777777,
+      "Count": 9,
+      "Region": "Bali"
+    },
+    {
+      "Avg_Buah": 12753.25,
+      "Avg_Sayur": 17495.625,
+      "Count": 8,
+      "Region": "Bangka Belitung"
+    },
+    {
+      "Avg_Buah": 11115.125,
+      "Avg_Sayur": 14429.75,
+      "Count": 8,
+      "Region": "Banten"
+    },
+    {
+      "Avg_Buah": 9753.5,
+      "Avg_Sayur": 19428.0,
+      "Count": 10,
+      "Region": "Bengkulu"
+    },
+    {
+      "Avg_Buah": 10570.75,
+      "Avg_Sayur": 12242.75,
+      "Count": 4,
+      "Region": "DI Yogyakarta"
+    },
+    {
+      "Avg_Buah": 13765.8,
+      "Avg_Sayur": 17936.4,
+      "Count": 5,
+      "Region": "DKI Jakarta"
+    },
+    {
+      "Avg_Buah": 8788.857142857143,
+      "Avg_Sayur": 11916.142857142857,
+      "Count": 7,
+      "Region": "Gorontalo"
+    },
+    {
+      "Avg_Buah": 12603.0,
+      "Avg_Sayur": 19431.0,
+      "Count": 11,
+      "Region": "Jambi"
+    },
+    {
+      "Avg_Buah": 10130.166666666666,
+      "Avg_Sayur": 11828.233333333334,
+      "Count": 30,
+      "Region": "Jawa Barat"
+    },
+    {
+      "Avg_Buah": 8178.625,
+      "Avg_Sayur": 11949.90625,
+      "Count": 32,
+      "Region": "Jawa Tengah"
+    },
+    {
+      "Avg_Buah": 8566.702702702703,
+      "Avg_Sayur": 11743.108108108108,
+      "Count": 37,
+      "Region": "Jawa Timur"
+    },
+    {
+      "Avg_Buah": 8010.857142857143,
+      "Avg_Sayur": 13275.57142857143,
+      "Count": 14,
+      "Region": "Kalimantan Barat"
+    },
+    {
+      "Avg_Buah": 10673.75,
+      "Avg_Sayur": 10946.75,
+      "Count": 8,
+      "Region": "Kalimantan Selatan"
+    },
+    {
+      "Avg_Buah": 9887.4,
+      "Avg_Sayur": 15395.8,
+      "Count": 15,
+      "Region": "Kalimantan Tengah"
+    },
+    {
+      "Avg_Buah": 12280.4,
+      "Avg_Sayur": 16270.8,
+      "Count": 10,
+      "Region": "Kalimantan Timur"
+    },
+    {
+      "Avg_Buah": 9512.8,
+      "Avg_Sayur": 17172.4,
+      "Count": 5,
+      "Region": "Kalimantan Utara"
+    },
+    {
+      "Avg_Buah": 9952.3,
+      "Avg_Sayur": 16894.2,
+      "Count": 10,
+      "Region": "Kepulauan Riau"
+    },
+    {
+      "Avg_Buah": 8915.423076923076,
+      "Avg_Sayur": 15501.653846153846,
+      "Count": 26,
+      "Region": "Lainnya"
+    },
+    {
+      "Avg_Buah": 9776.42857142857,
+      "Avg_Sayur": 15552.714285714286,
+      "Count": 7,
+      "Region": "Lampung"
+    },
+    {
+      "Avg_Buah": 9572.1,
+      "Avg_Sayur": 13224.3,
+      "Count": 10,
+      "Region": "Maluku"
+    },
+    {
+      "Avg_Buah": 12522.57142857143,
+      "Avg_Sayur": 16022.57142857143,
+      "Count": 7,
+      "Region": "Maluku Utara"
+    },
+    {
+      "Avg_Buah": 11457.2,
+      "Avg_Sayur": 12288.4,
+      "Count": 10,
+      "Region": "Nusa Tenggara Barat"
+    },
+    {
+      "Avg_Buah": 4102.523809523809,
+      "Avg_Sayur": 11987.666666666666,
+      "Count": 21,
+      "Region": "Nusa Tenggara Timur"
+    },
+    {
+      "Avg_Buah": 8398.17857142857,
+      "Avg_Sayur": 30016.678571428572,
+      "Count": 28,
+      "Region": "Papua"
+    },
+    {
+      "Avg_Buah": 10078.846153846154,
+      "Avg_Sayur": 19268.30769230769,
+      "Count": 13,
+      "Region": "Papua Barat"
+    },
+    {
+      "Avg_Buah": 8245.333333333334,
+      "Avg_Sayur": 20507.25,
+      "Count": 12,
+      "Region": "Riau"
+    },
+    {
+      "Avg_Buah": 8354.2,
+      "Avg_Sayur": 8656.4,
+      "Count": 5,
+      "Region": "Sulawesi Barat"
+    },
+    {
+      "Avg_Buah": 10242.375,
+      "Avg_Sayur": 8904.0,
+      "Count": 24,
+      "Region": "Sulawesi Selatan"
+    },
+    {
+      "Avg_Buah": 9545.384615384615,
+      "Avg_Sayur": 11772.0,
+      "Count": 13,
+      "Region": "Sulawesi Tengah"
+    },
+    {
+      "Avg_Buah": 9749.588235294117,
+      "Avg_Sayur": 8903.823529411764,
+      "Count": 17,
+      "Region": "Sulawesi Tenggara"
+    },
+    {
+      "Avg_Buah": 10735.2,
+      "Avg_Sayur": 13044.6,
+      "Count": 15,
+      "Region": "Sulawesi Utara"
+    },
+    {
+      "Avg_Buah": 9283.0,
+      "Avg_Sayur": 19259.555555555555,
+      "Count": 18,
+      "Region": "Sumatera Barat"
+    },
+    {
+      "Avg_Buah": 9942.375,
+      "Avg_Sayur": 14596.0625,
+      "Count": 16,
+      "Region": "Sumatera Selatan"
+    },
+    {
+      "Avg_Buah": 7103.878787878788,
+      "Avg_Sayur": 15431.09090909091,
+      "Count": 33,
+      "Region": "Sumatera Utara"
+    }
+  ],
+  "success": true
+}

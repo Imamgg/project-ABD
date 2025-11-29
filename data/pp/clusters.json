@@ -1,0 +1,4119 @@
+Endpoint: api/clusters
+{
+  "count": 514,
+  "data": [
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Aceh Barat",
+      "Pengeluaran_Buah": 11160.0,
+      "Pengeluaran_Sayur": 15821.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Barat Daya",
+      "Pengeluaran_Buah": 7231.0,
+      "Pengeluaran_Sayur": 13790.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Besar",
+      "Pengeluaran_Buah": 6689.0,
+      "Pengeluaran_Sayur": 14052.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Jaya",
+      "Pengeluaran_Buah": 8789.0,
+      "Pengeluaran_Sayur": 14197.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Selatan",
+      "Pengeluaran_Buah": 5682.0,
+      "Pengeluaran_Sayur": 14771.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Singkil",
+      "Pengeluaran_Buah": 6363.0,
+      "Pengeluaran_Sayur": 17920.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Tamiang",
+      "Pengeluaran_Buah": 7426.0,
+      "Pengeluaran_Sayur": 14233.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Aceh Tengah",
+      "Pengeluaran_Buah": 14192.0,
+      "Pengeluaran_Sayur": 17119.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Tenggara",
+      "Pengeluaran_Buah": 6046.0,
+      "Pengeluaran_Sayur": 14685.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Timur",
+      "Pengeluaran_Buah": 5812.0,
+      "Pengeluaran_Sayur": 12709.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Aceh Utara",
+      "Pengeluaran_Buah": 5004.0,
+      "Pengeluaran_Sayur": 10205.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Agam",
+      "Pengeluaran_Buah": 7294.0,
+      "Pengeluaran_Sayur": 17737.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Alor",
+      "Pengeluaran_Buah": 4042.0,
+      "Pengeluaran_Sayur": 11379.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Asahan",
+      "Pengeluaran_Buah": 7134.0,
+      "Pengeluaran_Sayur": 18091.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Asmat",
+      "Pengeluaran_Buah": 8172.0,
+      "Pengeluaran_Sayur": 13805.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Badung",
+      "Pengeluaran_Buah": 13811.0,
+      "Pengeluaran_Sayur": 16137.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Balangan",
+      "Pengeluaran_Buah": 12583.0,
+      "Pengeluaran_Sayur": 10172.0,
+      "Region": "Kalimantan Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bandung",
+      "Pengeluaran_Buah": 7002.0,
+      "Pengeluaran_Sayur": 8937.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bandung Barat",
+      "Pengeluaran_Buah": 7752.0,
+      "Pengeluaran_Sayur": 9936.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Banggai",
+      "Pengeluaran_Buah": 13427.0,
+      "Pengeluaran_Sayur": 12394.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Banggai Kepulauan",
+      "Pengeluaran_Buah": 10825.0,
+      "Pengeluaran_Sayur": 9432.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Banggai Laut",
+      "Pengeluaran_Buah": 9591.0,
+      "Pengeluaran_Sayur": 12570.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bangka",
+      "Pengeluaran_Buah": 14568.0,
+      "Pengeluaran_Sayur": 18470.0,
+      "Region": "Bangka Belitung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bangka Barat",
+      "Pengeluaran_Buah": 13049.0,
+      "Pengeluaran_Sayur": 16093.0,
+      "Region": "Bangka Belitung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bangka Selatan",
+      "Pengeluaran_Buah": 9875.0,
+      "Pengeluaran_Sayur": 18668.0,
+      "Region": "Bangka Belitung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bangka Tengah",
+      "Pengeluaran_Buah": 14341.0,
+      "Pengeluaran_Sayur": 17738.0,
+      "Region": "Bangka Belitung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bangkalan",
+      "Pengeluaran_Buah": 4582.0,
+      "Pengeluaran_Sayur": 8863.0,
+      "Region": "Bangka Belitung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bangli",
+      "Pengeluaran_Buah": 17278.0,
+      "Pengeluaran_Sayur": 15426.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Banjar",
+      "Pengeluaran_Buah": 8118.0,
+      "Pengeluaran_Sayur": 9310.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Banjarnegara",
+      "Pengeluaran_Buah": 7271.0,
+      "Pengeluaran_Sayur": 9474.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bantaeng",
+      "Pengeluaran_Buah": 15117.0,
+      "Pengeluaran_Sayur": 10075.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bantul",
+      "Pengeluaran_Buah": 10598.0,
+      "Pengeluaran_Sayur": 12560.0,
+      "Region": "DI Yogyakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Banyu Asin",
+      "Pengeluaran_Buah": 10575.0,
+      "Pengeluaran_Sayur": 17421.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Banyumas",
+      "Pengeluaran_Buah": 10910.0,
+      "Pengeluaran_Sayur": 14857.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Banyuwangi",
+      "Pengeluaran_Buah": 9730.0,
+      "Pengeluaran_Sayur": 15504.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Barito Kuala",
+      "Pengeluaran_Buah": 7734.0,
+      "Pengeluaran_Sayur": 10375.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Barito Selatan",
+      "Pengeluaran_Buah": 8160.0,
+      "Pengeluaran_Sayur": 11842.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Barito Timur",
+      "Pengeluaran_Buah": 11120.0,
+      "Pengeluaran_Sayur": 12321.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Barito Utara",
+      "Pengeluaran_Buah": 10416.0,
+      "Pengeluaran_Sayur": 12752.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Barru",
+      "Pengeluaran_Buah": 7198.0,
+      "Pengeluaran_Sayur": 7982.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Batang",
+      "Pengeluaran_Buah": 6936.0,
+      "Pengeluaran_Sayur": 11604.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Batang Hari",
+      "Pengeluaran_Buah": 10398.0,
+      "Pengeluaran_Sayur": 19775.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Batu Bara",
+      "Pengeluaran_Buah": 6388.0,
+      "Pengeluaran_Sayur": 15524.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bekasi",
+      "Pengeluaran_Buah": 9843.0,
+      "Pengeluaran_Sayur": 16110.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Belitung",
+      "Pengeluaran_Buah": 14625.0,
+      "Pengeluaran_Sayur": 18675.0,
+      "Region": "Bangka Belitung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Belitung Timur",
+      "Pengeluaran_Buah": 13277.0,
+      "Pengeluaran_Sayur": 19429.0,
+      "Region": "Bangka Belitung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Belu",
+      "Pengeluaran_Buah": 3092.0,
+      "Pengeluaran_Sayur": 12010.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bener Meriah",
+      "Pengeluaran_Buah": 16958.0,
+      "Pengeluaran_Sayur": 21000.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bengkalis",
+      "Pengeluaran_Buah": 7844.0,
+      "Pengeluaran_Sayur": 22523.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bengkayang",
+      "Pengeluaran_Buah": 6467.0,
+      "Pengeluaran_Sayur": 12608.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bengkulu Selatan",
+      "Pengeluaran_Buah": 9894.0,
+      "Pengeluaran_Sayur": 16806.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bengkulu Tengah",
+      "Pengeluaran_Buah": 8525.0,
+      "Pengeluaran_Sayur": 21567.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bengkulu Utara",
+      "Pengeluaran_Buah": 9730.0,
+      "Pengeluaran_Sayur": 21360.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Berau",
+      "Pengeluaran_Buah": 11214.0,
+      "Pengeluaran_Sayur": 17595.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Biak Numfor",
+      "Pengeluaran_Buah": 4719.0,
+      "Pengeluaran_Sayur": 18109.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bima",
+      "Pengeluaran_Buah": 7682.0,
+      "Pengeluaran_Sayur": 8371.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bintan",
+      "Pengeluaran_Buah": 7609.0,
+      "Pengeluaran_Sayur": 17378.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bireuen",
+      "Pengeluaran_Buah": 7497.0,
+      "Pengeluaran_Sayur": 12718.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Blitar",
+      "Pengeluaran_Buah": 7179.0,
+      "Pengeluaran_Sayur": 11570.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Blora",
+      "Pengeluaran_Buah": 6715.0,
+      "Pengeluaran_Sayur": 10950.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Boalemo",
+      "Pengeluaran_Buah": 9107.0,
+      "Pengeluaran_Sayur": 11872.0,
+      "Region": "Gorontalo",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bogor",
+      "Pengeluaran_Buah": 8432.0,
+      "Pengeluaran_Sayur": 13031.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bojonegoro",
+      "Pengeluaran_Buah": 5945.0,
+      "Pengeluaran_Sayur": 11761.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bolaang Mongondow",
+      "Pengeluaran_Buah": 11944.0,
+      "Pengeluaran_Sayur": 12853.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bolaang Mongondow Selatan",
+      "Pengeluaran_Buah": 7601.0,
+      "Pengeluaran_Sayur": 10309.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bolaang Mongondow Timur",
+      "Pengeluaran_Buah": 11453.0,
+      "Pengeluaran_Sayur": 12663.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bolaang Mongondow Utara",
+      "Pengeluaran_Buah": 8437.0,
+      "Pengeluaran_Sayur": 9454.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bombana",
+      "Pengeluaran_Buah": 11181.0,
+      "Pengeluaran_Sayur": 7530.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bondowoso",
+      "Pengeluaran_Buah": 7335.0,
+      "Pengeluaran_Sayur": 10548.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bone",
+      "Pengeluaran_Buah": 6602.0,
+      "Pengeluaran_Sayur": 5870.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Bone Bolango",
+      "Pengeluaran_Buah": 6949.0,
+      "Pengeluaran_Sayur": 11466.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Boven Digoel",
+      "Pengeluaran_Buah": 12218.0,
+      "Pengeluaran_Sayur": 18177.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Boyolali",
+      "Pengeluaran_Buah": 7864.0,
+      "Pengeluaran_Sayur": 11059.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Brebes",
+      "Pengeluaran_Buah": 6117.0,
+      "Pengeluaran_Sayur": 9696.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Buleleng",
+      "Pengeluaran_Buah": 9003.0,
+      "Pengeluaran_Sayur": 12483.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bulukumba",
+      "Pengeluaran_Buah": 13161.0,
+      "Pengeluaran_Sayur": 8287.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bulungan",
+      "Pengeluaran_Buah": 11905.0,
+      "Pengeluaran_Sayur": 18310.0,
+      "Region": "Kalimantan Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Bungo",
+      "Pengeluaran_Buah": 20638.0,
+      "Pengeluaran_Sayur": 22504.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Buol",
+      "Pengeluaran_Buah": 7971.0,
+      "Pengeluaran_Sayur": 9203.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Buru",
+      "Pengeluaran_Buah": 11280.0,
+      "Pengeluaran_Sayur": 14228.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Buru Selatan",
+      "Pengeluaran_Buah": 7552.0,
+      "Pengeluaran_Sayur": 10423.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Buton",
+      "Pengeluaran_Buah": 7895.0,
+      "Pengeluaran_Sayur": 10180.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Buton Selatan",
+      "Pengeluaran_Buah": 5527.0,
+      "Pengeluaran_Sayur": 8768.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Buton Tengah",
+      "Pengeluaran_Buah": 5255.0,
+      "Pengeluaran_Sayur": 6202.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Buton Utara",
+      "Pengeluaran_Buah": 7081.0,
+      "Pengeluaran_Sayur": 7583.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Ciamis",
+      "Pengeluaran_Buah": 11979.0,
+      "Pengeluaran_Sayur": 11674.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Cianjur",
+      "Pengeluaran_Buah": 9679.0,
+      "Pengeluaran_Sayur": 10642.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Cilacap",
+      "Pengeluaran_Buah": 6445.0,
+      "Pengeluaran_Sayur": 12159.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Cirebon",
+      "Pengeluaran_Buah": 6628.0,
+      "Pengeluaran_Sayur": 9682.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Dairi",
+      "Pengeluaran_Buah": 6396.0,
+      "Pengeluaran_Sayur": 15812.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Deiyai",
+      "Pengeluaran_Buah": 10349.0,
+      "Pengeluaran_Sayur": 29163.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Deli Serdang",
+      "Pengeluaran_Buah": 7165.0,
+      "Pengeluaran_Sayur": 17749.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Demak",
+      "Pengeluaran_Buah": 6398.0,
+      "Pengeluaran_Sayur": 11742.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Dharmasraya",
+      "Pengeluaran_Buah": 17839.0,
+      "Pengeluaran_Sayur": 20938.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 2,
+      "Kabupaten_Kota": "Dogiyai",
+      "Pengeluaran_Buah": 17795.0,
+      "Pengeluaran_Sayur": 55758.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Dompu",
+      "Pengeluaran_Buah": 7094.0,
+      "Pengeluaran_Sayur": 10938.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Donggala",
+      "Pengeluaran_Buah": 7628.0,
+      "Pengeluaran_Sayur": 9819.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Empat Lawang",
+      "Pengeluaran_Buah": 9186.0,
+      "Pengeluaran_Sayur": 14223.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Ende",
+      "Pengeluaran_Buah": 4485.0,
+      "Pengeluaran_Sayur": 12824.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Enrekang",
+      "Pengeluaran_Buah": 16801.0,
+      "Pengeluaran_Sayur": 9318.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Fakfak",
+      "Pengeluaran_Buah": 15995.0,
+      "Pengeluaran_Sayur": 20522.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Flores Timur",
+      "Pengeluaran_Buah": 4450.0,
+      "Pengeluaran_Sayur": 9634.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Garut",
+      "Pengeluaran_Buah": 6602.0,
+      "Pengeluaran_Sayur": 8405.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Gayo Lues",
+      "Pengeluaran_Buah": 8731.0,
+      "Pengeluaran_Sayur": 14544.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Gianyar",
+      "Pengeluaran_Buah": 14206.0,
+      "Pengeluaran_Sayur": 14867.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Gorontalo",
+      "Pengeluaran_Buah": 5937.0,
+      "Pengeluaran_Sayur": 10417.0,
+      "Region": "Gorontalo",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Gorontalo Utara",
+      "Pengeluaran_Buah": 7519.0,
+      "Pengeluaran_Sayur": 10700.0,
+      "Region": "Gorontalo",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Gowa",
+      "Pengeluaran_Buah": 10935.0,
+      "Pengeluaran_Sayur": 9508.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Gresik",
+      "Pengeluaran_Buah": 11016.0,
+      "Pengeluaran_Sayur": 13313.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Grobogan",
+      "Pengeluaran_Buah": 7285.0,
+      "Pengeluaran_Sayur": 12816.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Gunung Kidul",
+      "Pengeluaran_Buah": 6372.0,
+      "Pengeluaran_Sayur": 13457.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Gunung Mas",
+      "Pengeluaran_Buah": 8568.0,
+      "Pengeluaran_Sayur": 17121.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Halmahera Barat",
+      "Pengeluaran_Buah": 9036.0,
+      "Pengeluaran_Sayur": 14445.0,
+      "Region": "Maluku Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Halmahera Selatan",
+      "Pengeluaran_Buah": 11051.0,
+      "Pengeluaran_Sayur": 14954.0,
+      "Region": "Maluku Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Halmahera Tengah",
+      "Pengeluaran_Buah": 13114.0,
+      "Pengeluaran_Sayur": 17098.0,
+      "Region": "Maluku Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Halmahera Timur",
+      "Pengeluaran_Buah": 11973.0,
+      "Pengeluaran_Sayur": 17020.0,
+      "Region": "Maluku Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Halmahera Utara",
+      "Pengeluaran_Buah": 12600.0,
+      "Pengeluaran_Sayur": 15936.0,
+      "Region": "Gorontalo",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Hulu Sungai Selatan",
+      "Pengeluaran_Buah": 9124.0,
+      "Pengeluaran_Sayur": 9074.0,
+      "Region": "Kalimantan Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Hulu Sungai Tengah",
+      "Pengeluaran_Buah": 10989.0,
+      "Pengeluaran_Sayur": 9176.0,
+      "Region": "Kalimantan Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Hulu Sungai Utara",
+      "Pengeluaran_Buah": 7216.0,
+      "Pengeluaran_Sayur": 8734.0,
+      "Region": "Kalimantan Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Humbang Hasundutan",
+      "Pengeluaran_Buah": 9631.0,
+      "Pengeluaran_Sayur": 14752.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Indragiri Hilir",
+      "Pengeluaran_Buah": 7742.0,
+      "Pengeluaran_Sayur": 16639.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Indragiri Hulu",
+      "Pengeluaran_Buah": 8600.0,
+      "Pengeluaran_Sayur": 21869.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Indramayu",
+      "Pengeluaran_Buah": 8692.0,
+      "Pengeluaran_Sayur": 13249.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 2,
+      "Kabupaten_Kota": "Intan Jaya",
+      "Pengeluaran_Buah": 10747.0,
+      "Pengeluaran_Sayur": 57450.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Jayapura",
+      "Pengeluaran_Buah": 5247.0,
+      "Pengeluaran_Sayur": 15183.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Jayawijaya",
+      "Pengeluaran_Buah": 8185.0,
+      "Pengeluaran_Sayur": 18746.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Jember",
+      "Pengeluaran_Buah": 7380.0,
+      "Pengeluaran_Sayur": 11605.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Jembrana",
+      "Pengeluaran_Buah": 8224.0,
+      "Pengeluaran_Sayur": 13397.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Jeneponto",
+      "Pengeluaran_Buah": 6941.0,
+      "Pengeluaran_Sayur": 7417.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Jepara",
+      "Pengeluaran_Buah": 6559.0,
+      "Pengeluaran_Sayur": 10426.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Jombang",
+      "Pengeluaran_Buah": 7285.0,
+      "Pengeluaran_Sayur": 10472.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kaimana",
+      "Pengeluaran_Buah": 16965.0,
+      "Pengeluaran_Sayur": 18530.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kampar",
+      "Pengeluaran_Buah": 7643.0,
+      "Pengeluaran_Sayur": 21879.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kapuas",
+      "Pengeluaran_Buah": 7128.0,
+      "Pengeluaran_Sayur": 10497.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kapuas Hulu",
+      "Pengeluaran_Buah": 6875.0,
+      "Pengeluaran_Sayur": 14818.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Karanganyar",
+      "Pengeluaran_Buah": 8999.0,
+      "Pengeluaran_Sayur": 12463.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Karangasem",
+      "Pengeluaran_Buah": 8136.0,
+      "Pengeluaran_Sayur": 10260.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Karawang",
+      "Pengeluaran_Buah": 8796.0,
+      "Pengeluaran_Sayur": 12681.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Karimun",
+      "Pengeluaran_Buah": 8278.0,
+      "Pengeluaran_Sayur": 18044.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Karo",
+      "Pengeluaran_Buah": 8906.0,
+      "Pengeluaran_Sayur": 22247.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Katingan",
+      "Pengeluaran_Buah": 7825.0,
+      "Pengeluaran_Sayur": 17221.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kaur",
+      "Pengeluaran_Buah": 6988.0,
+      "Pengeluaran_Sayur": 15892.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kayong Utara",
+      "Pengeluaran_Buah": 6606.0,
+      "Pengeluaran_Sayur": 12184.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kebumen",
+      "Pengeluaran_Buah": 7301.0,
+      "Pengeluaran_Sayur": 11765.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kediri",
+      "Pengeluaran_Buah": 6676.0,
+      "Pengeluaran_Sayur": 12151.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Keerom",
+      "Pengeluaran_Buah": 6707.0,
+      "Pengeluaran_Sayur": 20885.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kendal",
+      "Pengeluaran_Buah": 7827.0,
+      "Pengeluaran_Sayur": 11811.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kep. Seribu",
+      "Pengeluaran_Buah": 11520.0,
+      "Pengeluaran_Sayur": 14684.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kepahiang",
+      "Pengeluaran_Buah": 8577.0,
+      "Pengeluaran_Sayur": 18705.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kepulauan Anambas",
+      "Pengeluaran_Buah": 10704.0,
+      "Pengeluaran_Sayur": 18913.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kepulauan Aru",
+      "Pengeluaran_Buah": 4869.0,
+      "Pengeluaran_Sayur": 12976.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kepulauan Mentawai",
+      "Pengeluaran_Buah": 15890.0,
+      "Pengeluaran_Sayur": 16329.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kepulauan Meranti",
+      "Pengeluaran_Buah": 5825.0,
+      "Pengeluaran_Sayur": 14209.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kepulauan Sangihe",
+      "Pengeluaran_Buah": 5969.0,
+      "Pengeluaran_Sayur": 12335.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kepulauan Selayar",
+      "Pengeluaran_Buah": 9430.0,
+      "Pengeluaran_Sayur": 9072.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kepulauan Sula",
+      "Pengeluaran_Buah": 8061.0,
+      "Pengeluaran_Sayur": 12061.0,
+      "Region": "Maluku Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kepulauan Talaud",
+      "Pengeluaran_Buah": 8481.0,
+      "Pengeluaran_Sayur": 14806.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kepulauan Yapen",
+      "Pengeluaran_Buah": 8062.0,
+      "Pengeluaran_Sayur": 19411.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kerinci",
+      "Pengeluaran_Buah": 10779.0,
+      "Pengeluaran_Sayur": 18205.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Ketapang",
+      "Pengeluaran_Buah": 8222.0,
+      "Pengeluaran_Sayur": 14987.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Klaten",
+      "Pengeluaran_Buah": 8534.0,
+      "Pengeluaran_Sayur": 11511.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Klungkung",
+      "Pengeluaran_Buah": 7447.0,
+      "Pengeluaran_Sayur": 15326.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kolaka",
+      "Pengeluaran_Buah": 13963.0,
+      "Pengeluaran_Sayur": 11281.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kolaka Timur",
+      "Pengeluaran_Buah": 10764.0,
+      "Pengeluaran_Sayur": 9698.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kolaka Utara",
+      "Pengeluaran_Buah": 16425.0,
+      "Pengeluaran_Sayur": 7789.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Konawe",
+      "Pengeluaran_Buah": 10011.0,
+      "Pengeluaran_Sayur": 9295.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Konawe Kepulauan",
+      "Pengeluaran_Buah": 13327.0,
+      "Pengeluaran_Sayur": 8239.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Konawe Selatan",
+      "Pengeluaran_Buah": 7386.0,
+      "Pengeluaran_Sayur": 10067.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Konawe Utara",
+      "Pengeluaran_Buah": 15167.0,
+      "Pengeluaran_Sayur": 10342.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Ambon",
+      "Pengeluaran_Buah": 13112.0,
+      "Pengeluaran_Sayur": 15955.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Balikpapan",
+      "Pengeluaran_Buah": 13435.0,
+      "Pengeluaran_Sayur": 16177.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Banda Aceh",
+      "Pengeluaran_Buah": 12518.0,
+      "Pengeluaran_Sayur": 15251.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bandar Lampung",
+      "Pengeluaran_Buah": 12678.0,
+      "Pengeluaran_Sayur": 16659.0,
+      "Region": "Lampung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bandung",
+      "Pengeluaran_Buah": 12717.0,
+      "Pengeluaran_Sayur": 13007.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Banjar",
+      "Pengeluaran_Buah": 12874.0,
+      "Pengeluaran_Sayur": 11514.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Banjar Baru",
+      "Pengeluaran_Buah": 10519.0,
+      "Pengeluaran_Sayur": 12914.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Banjarmasin",
+      "Pengeluaran_Buah": 9123.0,
+      "Pengeluaran_Sayur": 9428.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Baru",
+      "Pengeluaran_Buah": 11513.0,
+      "Pengeluaran_Sayur": 12761.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Batam",
+      "Pengeluaran_Buah": 12732.0,
+      "Pengeluaran_Sayur": 19654.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Batu",
+      "Pengeluaran_Buah": 11983.0,
+      "Pengeluaran_Sayur": 12767.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Baubau",
+      "Pengeluaran_Buah": 6954.0,
+      "Pengeluaran_Sayur": 7938.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bekasi",
+      "Pengeluaran_Buah": 16300.0,
+      "Pengeluaran_Sayur": 20707.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bengkulu",
+      "Pengeluaran_Buah": 13304.0,
+      "Pengeluaran_Sayur": 18380.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bima",
+      "Pengeluaran_Buah": 13206.0,
+      "Pengeluaran_Sayur": 10105.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Binjai",
+      "Pengeluaran_Buah": 9213.0,
+      "Pengeluaran_Sayur": 20530.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bitung",
+      "Pengeluaran_Buah": 11560.0,
+      "Pengeluaran_Sayur": 13800.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Blitar",
+      "Pengeluaran_Buah": 10466.0,
+      "Pengeluaran_Sayur": 10727.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bogor",
+      "Pengeluaran_Buah": 10152.0,
+      "Pengeluaran_Sayur": 14605.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bontang",
+      "Pengeluaran_Buah": 14116.0,
+      "Pengeluaran_Sayur": 15992.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Bukittinggi",
+      "Pengeluaran_Buah": 10719.0,
+      "Pengeluaran_Sayur": 17957.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Cilegon",
+      "Pengeluaran_Buah": 13792.0,
+      "Pengeluaran_Sayur": 15560.0,
+      "Region": "Banten",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Cimahi",
+      "Pengeluaran_Buah": 10899.0,
+      "Pengeluaran_Sayur": 13132.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Cirebon",
+      "Pengeluaran_Buah": 9405.0,
+      "Pengeluaran_Sayur": 11621.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Denpasar",
+      "Pengeluaran_Buah": 11772.0,
+      "Pengeluaran_Sayur": 16174.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Depok",
+      "Pengeluaran_Buah": 16963.0,
+      "Pengeluaran_Sayur": 19859.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Dumai",
+      "Pengeluaran_Buah": 8856.0,
+      "Pengeluaran_Sayur": 18885.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Gorontalo",
+      "Pengeluaran_Buah": 10596.0,
+      "Pengeluaran_Sayur": 13035.0,
+      "Region": "Gorontalo",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Gunungsitoli",
+      "Pengeluaran_Buah": 2567.0,
+      "Pengeluaran_Sayur": 11151.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Jakarta Barat",
+      "Pengeluaran_Buah": 14490.0,
+      "Pengeluaran_Sayur": 15070.0,
+      "Region": "DKI Jakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Jakarta Pusat",
+      "Pengeluaran_Buah": 10641.0,
+      "Pengeluaran_Sayur": 16792.0,
+      "Region": "DKI Jakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Jakarta Selatan",
+      "Pengeluaran_Buah": 15382.0,
+      "Pengeluaran_Sayur": 22204.0,
+      "Region": "DKI Jakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Jakarta Timur",
+      "Pengeluaran_Buah": 13718.0,
+      "Pengeluaran_Sayur": 18027.0,
+      "Region": "DKI Jakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Jakarta Utara",
+      "Pengeluaran_Buah": 14598.0,
+      "Pengeluaran_Sayur": 17589.0,
+      "Region": "DKI Jakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Jambi",
+      "Pengeluaran_Buah": 13742.0,
+      "Pengeluaran_Sayur": 17443.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Jayapura",
+      "Pengeluaran_Buah": 10571.0,
+      "Pengeluaran_Sayur": 34327.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Kediri",
+      "Pengeluaran_Buah": 9872.0,
+      "Pengeluaran_Sayur": 12556.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Kendari",
+      "Pengeluaran_Buah": 12611.0,
+      "Pengeluaran_Sayur": 12569.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Kotamobagu",
+      "Pengeluaran_Buah": 15364.0,
+      "Pengeluaran_Sayur": 12362.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Kupang",
+      "Pengeluaran_Buah": 6379.0,
+      "Pengeluaran_Sayur": 15684.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Langsa",
+      "Pengeluaran_Buah": 7349.0,
+      "Pengeluaran_Sayur": 14661.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Lhokseumawe",
+      "Pengeluaran_Buah": 9053.0,
+      "Pengeluaran_Sayur": 15067.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Lubuklinggau",
+      "Pengeluaran_Buah": 12375.0,
+      "Pengeluaran_Sayur": 14326.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Madiun",
+      "Pengeluaran_Buah": 15288.0,
+      "Pengeluaran_Sayur": 13820.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Magelang",
+      "Pengeluaran_Buah": 10013.0,
+      "Pengeluaran_Sayur": 12659.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Makasar",
+      "Pengeluaran_Buah": 11058.0,
+      "Pengeluaran_Sayur": 13406.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Malang",
+      "Pengeluaran_Buah": 11248.0,
+      "Pengeluaran_Sayur": 13248.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Manado",
+      "Pengeluaran_Buah": 11119.0,
+      "Pengeluaran_Sayur": 14731.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Mataram",
+      "Pengeluaran_Buah": 14019.0,
+      "Pengeluaran_Sayur": 13424.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Medan",
+      "Pengeluaran_Buah": 9739.0,
+      "Pengeluaran_Sayur": 18265.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Metro",
+      "Pengeluaran_Buah": 13622.0,
+      "Pengeluaran_Sayur": 16262.0,
+      "Region": "Lampung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Mojokerto",
+      "Pengeluaran_Buah": 9993.0,
+      "Pengeluaran_Sayur": 12933.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Padang",
+      "Pengeluaran_Buah": 10696.0,
+      "Pengeluaran_Sayur": 21574.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Padang Panjang",
+      "Pengeluaran_Buah": 10988.0,
+      "Pengeluaran_Sayur": 17058.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Padangsidimpuan",
+      "Pengeluaran_Buah": 7679.0,
+      "Pengeluaran_Sayur": 16543.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Pagar Alam",
+      "Pengeluaran_Buah": 11094.0,
+      "Pengeluaran_Sayur": 14744.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Palangka Raya",
+      "Pengeluaran_Buah": 9722.0,
+      "Pengeluaran_Sayur": 13894.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Palembang",
+      "Pengeluaran_Buah": 12613.0,
+      "Pengeluaran_Sayur": 14707.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Palopo",
+      "Pengeluaran_Buah": 16788.0,
+      "Pengeluaran_Sayur": 9393.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Palu",
+      "Pengeluaran_Buah": 9080.0,
+      "Pengeluaran_Sayur": 11940.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Pangkal Pinang",
+      "Pengeluaran_Buah": 17709.0,
+      "Pengeluaran_Sayur": 22029.0,
+      "Region": "Bangka Belitung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Parepare",
+      "Pengeluaran_Buah": 8732.0,
+      "Pengeluaran_Sayur": 8305.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Pariaman",
+      "Pengeluaran_Buah": 9194.0,
+      "Pengeluaran_Sayur": 17094.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Pasuruan",
+      "Pengeluaran_Buah": 12288.0,
+      "Pengeluaran_Sayur": 11238.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Payakumbuh",
+      "Pengeluaran_Buah": 10447.0,
+      "Pengeluaran_Sayur": 17910.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Pekalongan",
+      "Pengeluaran_Buah": 6360.0,
+      "Pengeluaran_Sayur": 10667.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Pekanbaru",
+      "Pengeluaran_Buah": 10295.0,
+      "Pengeluaran_Sayur": 19445.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Pematang Siantar",
+      "Pengeluaran_Buah": 10567.0,
+      "Pengeluaran_Sayur": 14584.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Pontianak",
+      "Pengeluaran_Buah": 10867.0,
+      "Pengeluaran_Sayur": 12986.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Prabumulih",
+      "Pengeluaran_Buah": 8929.0,
+      "Pengeluaran_Sayur": 12588.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Probolinggo",
+      "Pengeluaran_Buah": 6563.0,
+      "Pengeluaran_Sayur": 7663.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Sabang",
+      "Pengeluaran_Buah": 9582.0,
+      "Pengeluaran_Sayur": 16573.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Salatiga",
+      "Pengeluaran_Buah": 14150.0,
+      "Pengeluaran_Sayur": 14133.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Samarinda",
+      "Pengeluaran_Buah": 12485.0,
+      "Pengeluaran_Sayur": 14713.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Sawah Lunto",
+      "Pengeluaran_Buah": 9739.0,
+      "Pengeluaran_Sayur": 22570.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Semarang",
+      "Pengeluaran_Buah": 12475.0,
+      "Pengeluaran_Sayur": 16744.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Serang",
+      "Pengeluaran_Buah": 9344.0,
+      "Pengeluaran_Sayur": 12717.0,
+      "Region": "Banten",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Sibolga",
+      "Pengeluaran_Buah": 8362.0,
+      "Pengeluaran_Sayur": 13030.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Singkawang",
+      "Pengeluaran_Buah": 10996.0,
+      "Pengeluaran_Sayur": 11458.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Solok",
+      "Pengeluaran_Buah": 10677.0,
+      "Pengeluaran_Sayur": 19306.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Sorong",
+      "Pengeluaran_Buah": 7888.0,
+      "Pengeluaran_Sayur": 19307.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Subulussalam",
+      "Pengeluaran_Buah": 6226.0,
+      "Pengeluaran_Sayur": 13635.0,
+      "Region": "Aceh",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Sukabumi",
+      "Pengeluaran_Buah": 13078.0,
+      "Pengeluaran_Sayur": 11673.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Sungai Penuh",
+      "Pengeluaran_Buah": 9230.0,
+      "Pengeluaran_Sayur": 16685.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Surabaya",
+      "Pengeluaran_Buah": 15153.0,
+      "Pengeluaran_Sayur": 16478.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Surakarta",
+      "Pengeluaran_Buah": 9502.0,
+      "Pengeluaran_Sayur": 13693.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Tangerang",
+      "Pengeluaran_Buah": 15713.0,
+      "Pengeluaran_Sayur": 18702.0,
+      "Region": "Banten",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Tangerang Selatan",
+      "Pengeluaran_Buah": 14047.0,
+      "Pengeluaran_Sayur": 19428.0,
+      "Region": "Banten",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Tanjung Balai",
+      "Pengeluaran_Buah": 9501.0,
+      "Pengeluaran_Sayur": 14499.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Tanjung Pinang",
+      "Pengeluaran_Buah": 11005.0,
+      "Pengeluaran_Sayur": 16885.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Tarakan",
+      "Pengeluaran_Buah": 8685.0,
+      "Pengeluaran_Sayur": 13806.0,
+      "Region": "Kalimantan Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Tasikmalaya",
+      "Pengeluaran_Buah": 13430.0,
+      "Pengeluaran_Sayur": 9361.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Tebing Tinggi",
+      "Pengeluaran_Buah": 9095.0,
+      "Pengeluaran_Sayur": 17628.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Tegal",
+      "Pengeluaran_Buah": 7366.0,
+      "Pengeluaran_Sayur": 9915.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Ternate",
+      "Pengeluaran_Buah": 19293.0,
+      "Pengeluaran_Sayur": 20368.0,
+      "Region": "Maluku Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Tidore Kepulauan",
+      "Pengeluaran_Buah": 15130.0,
+      "Pengeluaran_Sayur": 16212.0,
+      "Region": "Maluku Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Tomohon",
+      "Pengeluaran_Buah": 13280.0,
+      "Pengeluaran_Sayur": 15396.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kota Tual",
+      "Pengeluaran_Buah": 8913.0,
+      "Pengeluaran_Sayur": 13739.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kota Yogyakarta",
+      "Pengeluaran_Buah": 10971.0,
+      "Pengeluaran_Sayur": 11934.0,
+      "Region": "DI Yogyakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kotawaringin Barat",
+      "Pengeluaran_Buah": 12232.0,
+      "Pengeluaran_Sayur": 20001.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kotawaringin Timur",
+      "Pengeluaran_Buah": 9253.0,
+      "Pengeluaran_Sayur": 16969.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kuantan Singingi",
+      "Pengeluaran_Buah": 8118.0,
+      "Pengeluaran_Sayur": 22773.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kubu Raya",
+      "Pengeluaran_Buah": 5931.0,
+      "Pengeluaran_Sayur": 10171.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kudus",
+      "Pengeluaran_Buah": 7844.0,
+      "Pengeluaran_Sayur": 10849.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kulon Progo",
+      "Pengeluaran_Buah": 7333.0,
+      "Pengeluaran_Sayur": 10575.0,
+      "Region": "DI Yogyakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kuningan",
+      "Pengeluaran_Buah": 6396.0,
+      "Pengeluaran_Sayur": 9979.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Kupang",
+      "Pengeluaran_Buah": 3543.0,
+      "Pengeluaran_Sayur": 12152.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kutai Barat",
+      "Pengeluaran_Buah": 13134.0,
+      "Pengeluaran_Sayur": 13171.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kutai Kartanegara",
+      "Pengeluaran_Buah": 13568.0,
+      "Pengeluaran_Sayur": 15578.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Kutai Timur",
+      "Pengeluaran_Buah": 14032.0,
+      "Pengeluaran_Sayur": 16835.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Labuhan Batu",
+      "Pengeluaran_Buah": 6041.0,
+      "Pengeluaran_Sayur": 15950.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Labuhan Batu Selatan",
+      "Pengeluaran_Buah": 5672.0,
+      "Pengeluaran_Sayur": 17317.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Labuhan Batu Utara",
+      "Pengeluaran_Buah": 6464.0,
+      "Pengeluaran_Sayur": 16161.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lahat",
+      "Pengeluaran_Buah": 10984.0,
+      "Pengeluaran_Sayur": 18253.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lamandau",
+      "Pengeluaran_Buah": 14142.0,
+      "Pengeluaran_Sayur": 22772.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lamongan",
+      "Pengeluaran_Buah": 7178.0,
+      "Pengeluaran_Sayur": 11507.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lampung Barat",
+      "Pengeluaran_Buah": 10689.0,
+      "Pengeluaran_Sayur": 15761.0,
+      "Region": "Lampung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lampung Selatan",
+      "Pengeluaran_Buah": 10673.0,
+      "Pengeluaran_Sayur": 15388.0,
+      "Region": "Lampung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lampung Tengah",
+      "Pengeluaran_Buah": 8609.0,
+      "Pengeluaran_Sayur": 16256.0,
+      "Region": "Lampung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lampung Timur",
+      "Pengeluaran_Buah": 6330.0,
+      "Pengeluaran_Sayur": 13395.0,
+      "Region": "Lampung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lampung Utara",
+      "Pengeluaran_Buah": 5834.0,
+      "Pengeluaran_Sayur": 15148.0,
+      "Region": "Lampung",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Landak",
+      "Pengeluaran_Buah": 9331.0,
+      "Pengeluaran_Sayur": 15573.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Langkat",
+      "Pengeluaran_Buah": 5939.0,
+      "Pengeluaran_Sayur": 17528.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lanny Jaya",
+      "Pengeluaran_Buah": 4550.0,
+      "Pengeluaran_Sayur": 31895.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lebak",
+      "Pengeluaran_Buah": 11484.0,
+      "Pengeluaran_Sayur": 10484.0,
+      "Region": "Banten",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lebong",
+      "Pengeluaran_Buah": 11058.0,
+      "Pengeluaran_Sayur": 20610.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lembata",
+      "Pengeluaran_Buah": 5232.0,
+      "Pengeluaran_Sayur": 9415.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lima Puluh Kota",
+      "Pengeluaran_Buah": 7591.0,
+      "Pengeluaran_Sayur": 20821.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lingga",
+      "Pengeluaran_Buah": 8812.0,
+      "Pengeluaran_Sayur": 13583.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lombok Barat",
+      "Pengeluaran_Buah": 10901.0,
+      "Pengeluaran_Sayur": 11983.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Lombok Tengah",
+      "Pengeluaran_Buah": 8423.0,
+      "Pengeluaran_Sayur": 13845.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lombok Timur",
+      "Pengeluaran_Buah": 15474.0,
+      "Pengeluaran_Sayur": 15452.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lombok Utara",
+      "Pengeluaran_Buah": 10737.0,
+      "Pengeluaran_Sayur": 13504.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Lumajang",
+      "Pengeluaran_Buah": 10299.0,
+      "Pengeluaran_Sayur": 12423.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Luwu",
+      "Pengeluaran_Buah": 10017.0,
+      "Pengeluaran_Sayur": 8921.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Luwu Timur",
+      "Pengeluaran_Buah": 12204.0,
+      "Pengeluaran_Sayur": 10277.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Luwu Utara",
+      "Pengeluaran_Buah": 14232.0,
+      "Pengeluaran_Sayur": 10207.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Madiun",
+      "Pengeluaran_Buah": 7408.0,
+      "Pengeluaran_Sayur": 12231.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Magelang",
+      "Pengeluaran_Buah": 7186.0,
+      "Pengeluaran_Sayur": 10041.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Magetan",
+      "Pengeluaran_Buah": 7647.0,
+      "Pengeluaran_Sayur": 11818.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mahakam Ulu",
+      "Pengeluaran_Buah": 8560.0,
+      "Pengeluaran_Sayur": 22812.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Majalengka",
+      "Pengeluaran_Buah": 7398.0,
+      "Pengeluaran_Sayur": 10034.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Majene",
+      "Pengeluaran_Buah": 7725.0,
+      "Pengeluaran_Sayur": 8102.0,
+      "Region": "Sulawesi Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Malaka",
+      "Pengeluaran_Buah": 4185.0,
+      "Pengeluaran_Sayur": 11763.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Malang",
+      "Pengeluaran_Buah": 8778.0,
+      "Pengeluaran_Sayur": 12368.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Malinau",
+      "Pengeluaran_Buah": 9173.0,
+      "Pengeluaran_Sayur": 20385.0,
+      "Region": "Kalimantan Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Maluku Barat Daya",
+      "Pengeluaran_Buah": 9410.0,
+      "Pengeluaran_Sayur": 17725.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Maluku Tengah",
+      "Pengeluaran_Buah": 11952.0,
+      "Pengeluaran_Sayur": 14795.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Maluku Tenggara",
+      "Pengeluaran_Buah": 8988.0,
+      "Pengeluaran_Sayur": 14169.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Maluku Tenggara Barat",
+      "Pengeluaran_Buah": 4993.0,
+      "Pengeluaran_Sayur": 13164.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mamasa",
+      "Pengeluaran_Buah": 7928.0,
+      "Pengeluaran_Sayur": 7189.0,
+      "Region": "Sulawesi Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 2,
+      "Kabupaten_Kota": "Mamberamo Raya",
+      "Pengeluaran_Buah": 2230.0,
+      "Pengeluaran_Sayur": 44009.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 2,
+      "Kabupaten_Kota": "Mamberamo Tengah",
+      "Pengeluaran_Buah": 10107.0,
+      "Pengeluaran_Sayur": 39735.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mamuju",
+      "Pengeluaran_Buah": 8338.0,
+      "Pengeluaran_Sayur": 9206.0,
+      "Region": "Sulawesi Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mamuju Tengah",
+      "Pengeluaran_Buah": 7534.0,
+      "Pengeluaran_Sayur": 10857.0,
+      "Region": "Sulawesi Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mamuju Utara",
+      "Pengeluaran_Buah": 7689.0,
+      "Pengeluaran_Sayur": 11720.0,
+      "Region": "Gorontalo",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mandailing Natal",
+      "Pengeluaran_Buah": 3689.0,
+      "Pengeluaran_Sayur": 16147.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Manggarai",
+      "Pengeluaran_Buah": 3564.0,
+      "Pengeluaran_Sayur": 13287.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Manggarai Barat",
+      "Pengeluaran_Buah": 4436.0,
+      "Pengeluaran_Sayur": 10412.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Manggarai Timur",
+      "Pengeluaran_Buah": 4025.0,
+      "Pengeluaran_Sayur": 8865.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Manokwari",
+      "Pengeluaran_Buah": 7462.0,
+      "Pengeluaran_Sayur": 20114.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Manokwari Selatan",
+      "Pengeluaran_Buah": 12679.0,
+      "Pengeluaran_Sayur": 27249.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mappi",
+      "Pengeluaran_Buah": 9331.0,
+      "Pengeluaran_Sayur": 17253.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Maros",
+      "Pengeluaran_Buah": 8613.0,
+      "Pengeluaran_Sayur": 7990.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Maybrat",
+      "Pengeluaran_Buah": 7157.0,
+      "Pengeluaran_Sayur": 18026.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Melawi",
+      "Pengeluaran_Buah": 6920.0,
+      "Pengeluaran_Sayur": 14655.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mempawah",
+      "Pengeluaran_Buah": 7330.0,
+      "Pengeluaran_Sayur": 10113.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Merangin",
+      "Pengeluaran_Buah": 17034.0,
+      "Pengeluaran_Sayur": 21721.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Merauke",
+      "Pengeluaran_Buah": 12140.0,
+      "Pengeluaran_Sayur": 23464.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mesuji",
+      "Pengeluaran_Buah": 7528.0,
+      "Pengeluaran_Sayur": 17067.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mimika",
+      "Pengeluaran_Buah": 8201.0,
+      "Pengeluaran_Sayur": 16923.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Minahasa",
+      "Pengeluaran_Buah": 13267.0,
+      "Pengeluaran_Sayur": 14141.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Minahasa Selatan",
+      "Pengeluaran_Buah": 9956.0,
+      "Pengeluaran_Sayur": 13113.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Minahasa Tenggara",
+      "Pengeluaran_Buah": 10581.0,
+      "Pengeluaran_Sayur": 12539.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Minahasa Utara",
+      "Pengeluaran_Buah": 10470.0,
+      "Pengeluaran_Sayur": 13594.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Mojokerto",
+      "Pengeluaran_Buah": 8499.0,
+      "Pengeluaran_Sayur": 11243.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Morowali",
+      "Pengeluaran_Buah": 15223.0,
+      "Pengeluaran_Sayur": 16887.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Morowali Utara",
+      "Pengeluaran_Buah": 12148.0,
+      "Pengeluaran_Sayur": 15182.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Muara Enim",
+      "Pengeluaran_Buah": 9338.0,
+      "Pengeluaran_Sayur": 16468.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Muaro Jambi",
+      "Pengeluaran_Buah": 13088.0,
+      "Pengeluaran_Sayur": 20801.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Mukomuko",
+      "Pengeluaran_Buah": 12522.0,
+      "Pengeluaran_Sayur": 23996.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Muna",
+      "Pengeluaran_Buah": 5785.0,
+      "Pengeluaran_Sayur": 5778.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Muna Barat",
+      "Pengeluaran_Buah": 9091.0,
+      "Pengeluaran_Sayur": 7658.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Murung Raya",
+      "Pengeluaran_Buah": 5908.0,
+      "Pengeluaran_Sayur": 14351.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Musi Banyuasin",
+      "Pengeluaran_Buah": 11793.0,
+      "Pengeluaran_Sayur": 17208.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Musi Rawas",
+      "Pengeluaran_Buah": 11758.0,
+      "Pengeluaran_Sayur": 15961.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Musi Rawas Utara",
+      "Pengeluaran_Buah": 9497.0,
+      "Pengeluaran_Sayur": 15260.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Nabire",
+      "Pengeluaran_Buah": 7545.0,
+      "Pengeluaran_Sayur": 15595.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Nagan Raya",
+      "Pengeluaran_Buah": 12722.0,
+      "Pengeluaran_Sayur": 21928.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Nagekeo",
+      "Pengeluaran_Buah": 4959.0,
+      "Pengeluaran_Sayur": 9668.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Natuna",
+      "Pengeluaran_Buah": 10534.0,
+      "Pengeluaran_Sayur": 16284.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 2,
+      "Kabupaten_Kota": "Nduga",
+      "Pengeluaran_Buah": 25802.0,
+      "Pengeluaran_Sayur": 81168.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Ngada",
+      "Pengeluaran_Buah": 7096.0,
+      "Pengeluaran_Sayur": 15919.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Nganjuk",
+      "Pengeluaran_Buah": 6365.0,
+      "Pengeluaran_Sayur": 12153.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Ngawi",
+      "Pengeluaran_Buah": 9985.0,
+      "Pengeluaran_Sayur": 14882.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Nias",
+      "Pengeluaran_Buah": 3706.0,
+      "Pengeluaran_Sayur": 11276.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Nias Barat",
+      "Pengeluaran_Buah": 2411.0,
+      "Pengeluaran_Sayur": 7832.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Nias Selatan",
+      "Pengeluaran_Buah": 2389.0,
+      "Pengeluaran_Sayur": 12098.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Nias Utara",
+      "Pengeluaran_Buah": 2789.0,
+      "Pengeluaran_Sayur": 10324.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Nunukan",
+      "Pengeluaran_Buah": 7455.0,
+      "Pengeluaran_Sayur": 14504.0,
+      "Region": "Kalimantan Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Ogan Ilir",
+      "Pengeluaran_Buah": 10733.0,
+      "Pengeluaran_Sayur": 12340.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Ogan Komering Ilir",
+      "Pengeluaran_Buah": 12015.0,
+      "Pengeluaran_Sayur": 17033.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Ogan Komering Ulu",
+      "Pengeluaran_Buah": 7359.0,
+      "Pengeluaran_Sayur": 11395.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Ogan Komering Ulu Selatan",
+      "Pengeluaran_Buah": 9845.0,
+      "Pengeluaran_Sayur": 14233.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Ogan Komering Ulu Timur",
+      "Pengeluaran_Buah": 9149.0,
+      "Pengeluaran_Sayur": 13828.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pacitan",
+      "Pengeluaran_Buah": 6823.0,
+      "Pengeluaran_Sayur": 12004.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Padang Lawas",
+      "Pengeluaran_Buah": 6120.0,
+      "Pengeluaran_Sayur": 16544.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Padang Lawas Utara",
+      "Pengeluaran_Buah": 5093.0,
+      "Pengeluaran_Sayur": 14907.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Padang Pariaman",
+      "Pengeluaran_Buah": 6270.0,
+      "Pengeluaran_Sayur": 18055.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pakpak Bharat",
+      "Pengeluaran_Buah": 8061.0,
+      "Pengeluaran_Sayur": 14244.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pamekasan",
+      "Pengeluaran_Buah": 3811.0,
+      "Pengeluaran_Sayur": 7001.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pandeglang",
+      "Pengeluaran_Buah": 6695.0,
+      "Pengeluaran_Sayur": 10237.0,
+      "Region": "Banten",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Pangandaran",
+      "Pengeluaran_Buah": 14950.0,
+      "Pengeluaran_Sayur": 14367.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pangkajene dan Kepulauan",
+      "Pengeluaran_Buah": 9730.0,
+      "Pengeluaran_Sayur": 8537.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Paniai",
+      "Pengeluaran_Buah": 4763.0,
+      "Pengeluaran_Sayur": 16585.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Parigi Moutong",
+      "Pengeluaran_Buah": 8151.0,
+      "Pengeluaran_Sayur": 9926.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pasaman",
+      "Pengeluaran_Buah": 5126.0,
+      "Pengeluaran_Sayur": 17726.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pasaman Barat",
+      "Pengeluaran_Buah": 6236.0,
+      "Pengeluaran_Sayur": 19057.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Paser",
+      "Pengeluaran_Buah": 12025.0,
+      "Pengeluaran_Sayur": 15278.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pasuruan",
+      "Pengeluaran_Buah": 8476.0,
+      "Pengeluaran_Sayur": 9365.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Pati",
+      "Pengeluaran_Buah": 10857.0,
+      "Pengeluaran_Sayur": 12330.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pegunungan Arfak",
+      "Pengeluaran_Buah": 7540.0,
+      "Pengeluaran_Sayur": 16034.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Pegunungan Bintang",
+      "Pengeluaran_Buah": 9125.0,
+      "Pengeluaran_Sayur": 22438.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pekalongan",
+      "Pengeluaran_Buah": 7291.0,
+      "Pengeluaran_Sayur": 10566.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Pelalawan",
+      "Pengeluaran_Buah": 8833.0,
+      "Pengeluaran_Sayur": 22520.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pemalang",
+      "Pengeluaran_Buah": 7391.0,
+      "Pengeluaran_Sayur": 11411.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Penajam Paser Utara",
+      "Pengeluaran_Buah": 10235.0,
+      "Pengeluaran_Sayur": 14557.0,
+      "Region": "Kalimantan Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Penukal Abab Lematang Ilir",
+      "Pengeluaran_Buah": 7500.0,
+      "Pengeluaran_Sayur": 12480.0,
+      "Region": "Sumatera Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Pesawaran",
+      "Pengeluaran_Buah": 11573.0,
+      "Pengeluaran_Sayur": 17297.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Pesisir Barat",
+      "Pengeluaran_Buah": 10107.0,
+      "Pengeluaran_Sayur": 19912.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pesisir Selatan",
+      "Pengeluaran_Buah": 6372.0,
+      "Pengeluaran_Sayur": 21168.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pidie",
+      "Pengeluaran_Buah": 7213.0,
+      "Pengeluaran_Sayur": 12984.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pidie Jaya",
+      "Pengeluaran_Buah": 7558.0,
+      "Pengeluaran_Sayur": 13373.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pinrang",
+      "Pengeluaran_Buah": 10326.0,
+      "Pengeluaran_Sayur": 7689.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pohuwato",
+      "Pengeluaran_Buah": 8074.0,
+      "Pengeluaran_Sayur": 9733.0,
+      "Region": "Gorontalo",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Polewali Mandar",
+      "Pengeluaran_Buah": 10246.0,
+      "Pengeluaran_Sayur": 7928.0,
+      "Region": "Sulawesi Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Ponorogo",
+      "Pengeluaran_Buah": 6571.0,
+      "Pengeluaran_Sayur": 11697.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Poso",
+      "Pengeluaran_Buah": 10673.0,
+      "Pengeluaran_Sayur": 13934.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pringsewu",
+      "Pengeluaran_Buah": 9019.0,
+      "Pengeluaran_Sayur": 13921.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Probolinggo",
+      "Pengeluaran_Buah": 6165.0,
+      "Pengeluaran_Sayur": 8747.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Pulang Pisau",
+      "Pengeluaran_Buah": 9992.0,
+      "Pengeluaran_Sayur": 16504.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Pulau Morotai",
+      "Pengeluaran_Buah": 7666.0,
+      "Pengeluaran_Sayur": 17554.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Pulau Taliabu",
+      "Pengeluaran_Buah": 13784.0,
+      "Pengeluaran_Sayur": 11080.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Puncak",
+      "Pengeluaran_Buah": 3981.0,
+      "Pengeluaran_Sayur": 28665.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Puncak Jaya",
+      "Pengeluaran_Buah": 6745.0,
+      "Pengeluaran_Sayur": 14084.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Purbalingga",
+      "Pengeluaran_Buah": 8349.0,
+      "Pengeluaran_Sayur": 11437.0,
+      "Region": "Kepulauan Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Purwakarta",
+      "Pengeluaran_Buah": 9513.0,
+      "Pengeluaran_Sayur": 10273.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Purworejo",
+      "Pengeluaran_Buah": 8384.0,
+      "Pengeluaran_Sayur": 13354.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Raja Ampat",
+      "Pengeluaran_Buah": 10993.0,
+      "Pengeluaran_Sayur": 15136.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Rejang Lebong",
+      "Pengeluaran_Buah": 9415.0,
+      "Pengeluaran_Sayur": 19601.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Rembang",
+      "Pengeluaran_Buah": 8403.0,
+      "Pengeluaran_Sayur": 12792.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Rokan Hilir",
+      "Pengeluaran_Buah": 7162.0,
+      "Pengeluaran_Sayur": 18185.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Rokan Hulu",
+      "Pengeluaran_Buah": 9723.0,
+      "Pengeluaran_Sayur": 25104.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Rote Ndao",
+      "Pengeluaran_Buah": 1395.0,
+      "Pengeluaran_Sayur": 10804.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sabu Raijua",
+      "Pengeluaran_Buah": 3367.0,
+      "Pengeluaran_Sayur": 15543.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sambas",
+      "Pengeluaran_Buah": 7340.0,
+      "Pengeluaran_Sayur": 9006.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Samosir",
+      "Pengeluaran_Buah": 10145.0,
+      "Pengeluaran_Sayur": 19608.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sampang",
+      "Pengeluaran_Buah": 2811.0,
+      "Pengeluaran_Sayur": 8178.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sanggau",
+      "Pengeluaran_Buah": 5801.0,
+      "Pengeluaran_Sayur": 13658.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sarmi",
+      "Pengeluaran_Buah": 3052.0,
+      "Pengeluaran_Sayur": 32419.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sarolangun",
+      "Pengeluaran_Buah": 13960.0,
+      "Pengeluaran_Sayur": 18711.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sekadau",
+      "Pengeluaran_Buah": 12255.0,
+      "Pengeluaran_Sayur": 16232.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Seluma",
+      "Pengeluaran_Buah": 7522.0,
+      "Pengeluaran_Sayur": 17363.0,
+      "Region": "Bengkulu",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Semarang",
+      "Pengeluaran_Buah": 10408.0,
+      "Pengeluaran_Sayur": 13577.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Seram Bagian Barat",
+      "Pengeluaran_Buah": 10078.0,
+      "Pengeluaran_Sayur": 11563.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Seram Bagian Timur",
+      "Pengeluaran_Buah": 13984.0,
+      "Pengeluaran_Sayur": 11231.0,
+      "Region": "Maluku",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Serang",
+      "Pengeluaran_Buah": 9329.0,
+      "Pengeluaran_Sayur": 13279.0,
+      "Region": "Banten",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Serdang Bedagai",
+      "Pengeluaran_Buah": 6076.0,
+      "Pengeluaran_Sayur": 15435.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Seruyan",
+      "Pengeluaran_Buah": 11054.0,
+      "Pengeluaran_Sayur": 17060.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Siak",
+      "Pengeluaran_Buah": 8303.0,
+      "Pengeluaran_Sayur": 22056.0,
+      "Region": "Riau",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Siau Tagulandang Biaro",
+      "Pengeluaran_Buah": 11546.0,
+      "Pengeluaran_Sayur": 13573.0,
+      "Region": "Sulawesi Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sidenreng Rappang",
+      "Pengeluaran_Buah": 11245.0,
+      "Pengeluaran_Sayur": 9911.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sidoarjo",
+      "Pengeluaran_Buah": 11957.0,
+      "Pengeluaran_Sayur": 14194.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sigi",
+      "Pengeluaran_Buah": 7488.0,
+      "Pengeluaran_Sayur": 13476.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sijunjung",
+      "Pengeluaran_Buah": 8582.0,
+      "Pengeluaran_Sayur": 21635.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sikka",
+      "Pengeluaran_Buah": 4810.0,
+      "Pengeluaran_Sayur": 9252.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Simalungun",
+      "Pengeluaran_Buah": 7460.0,
+      "Pengeluaran_Sayur": 16398.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Simeulue",
+      "Pengeluaran_Buah": 3978.0,
+      "Pengeluaran_Sayur": 13152.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sinjai",
+      "Pengeluaran_Buah": 12006.0,
+      "Pengeluaran_Sayur": 8669.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sintang",
+      "Pengeluaran_Buah": 7211.0,
+      "Pengeluaran_Sayur": 17409.0,
+      "Region": "Kalimantan Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Situbondo",
+      "Pengeluaran_Buah": 6327.0,
+      "Pengeluaran_Sayur": 8686.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sleman",
+      "Pengeluaran_Buah": 13381.0,
+      "Pengeluaran_Sayur": 13902.0,
+      "Region": "DI Yogyakarta",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Solok",
+      "Pengeluaran_Buah": 6588.0,
+      "Pengeluaran_Sayur": 21085.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Solok Selatan",
+      "Pengeluaran_Buah": 7666.0,
+      "Pengeluaran_Sayur": 22891.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Soppeng",
+      "Pengeluaran_Buah": 9154.0,
+      "Pengeluaran_Sayur": 8073.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sorong",
+      "Pengeluaran_Buah": 5249.0,
+      "Pengeluaran_Sayur": 18548.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sorong Selatan",
+      "Pengeluaran_Buah": 8768.0,
+      "Pengeluaran_Sayur": 22267.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sragen",
+      "Pengeluaran_Buah": 8632.0,
+      "Pengeluaran_Sayur": 14650.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Subang",
+      "Pengeluaran_Buah": 8881.0,
+      "Pengeluaran_Sayur": 10957.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sukabumi",
+      "Pengeluaran_Buah": 10662.0,
+      "Pengeluaran_Sayur": 10572.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sukamara",
+      "Pengeluaran_Buah": 15057.0,
+      "Pengeluaran_Sayur": 17257.0,
+      "Region": "Kalimantan Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sukoharjo",
+      "Pengeluaran_Buah": 9218.0,
+      "Pengeluaran_Sayur": 12183.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sumba Barat",
+      "Pengeluaran_Buah": 2718.0,
+      "Pengeluaran_Sayur": 9957.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sumba Barat Daya",
+      "Pengeluaran_Buah": 4100.0,
+      "Pengeluaran_Sayur": 8970.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sumba Tengah",
+      "Pengeluaran_Buah": 3409.0,
+      "Pengeluaran_Sayur": 11498.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sumba Timur",
+      "Pengeluaran_Buah": 3406.0,
+      "Pengeluaran_Sayur": 13985.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sumbawa",
+      "Pengeluaran_Buah": 10927.0,
+      "Pengeluaran_Sayur": 11981.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Sumbawa Barat",
+      "Pengeluaran_Buah": 16109.0,
+      "Pengeluaran_Sayur": 13281.0,
+      "Region": "Nusa Tenggara Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sumedang",
+      "Pengeluaran_Buah": 9376.0,
+      "Pengeluaran_Sayur": 10265.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Sumenep",
+      "Pengeluaran_Buah": 8677.0,
+      "Pengeluaran_Sayur": 12279.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 2,
+      "Kabupaten_Kota": "Supiori",
+      "Pengeluaran_Buah": 4558.0,
+      "Pengeluaran_Sayur": 47446.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Tabalong",
+      "Pengeluaran_Buah": 14530.0,
+      "Pengeluaran_Sayur": 11717.0,
+      "Region": "Kalimantan Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Tabanan",
+      "Pengeluaran_Buah": 11266.0,
+      "Pengeluaran_Sayur": 13467.0,
+      "Region": "Bali",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Takalar",
+      "Pengeluaran_Buah": 7918.0,
+      "Pengeluaran_Sayur": 6980.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Tambrauw",
+      "Pengeluaran_Buah": 9559.0,
+      "Pengeluaran_Sayur": 17851.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Tana Tidung",
+      "Pengeluaran_Buah": 10346.0,
+      "Pengeluaran_Sayur": 18857.0,
+      "Region": "Kalimantan Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tana Toraja",
+      "Pengeluaran_Buah": 6072.0,
+      "Pengeluaran_Sayur": 11022.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Tanah Bumbu",
+      "Pengeluaran_Buah": 12211.0,
+      "Pengeluaran_Sayur": 14578.0,
+      "Region": "Kalimantan Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tanah Datar",
+      "Pengeluaran_Buah": 8919.0,
+      "Pengeluaran_Sayur": 18331.0,
+      "Region": "Sumatera Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tanah Laut",
+      "Pengeluaran_Buah": 7856.0,
+      "Pengeluaran_Sayur": 12425.0,
+      "Region": "Kalimantan Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tangerang",
+      "Pengeluaran_Buah": 8517.0,
+      "Pengeluaran_Sayur": 15031.0,
+      "Region": "Banten",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tanggamus",
+      "Pengeluaran_Buah": 7608.0,
+      "Pengeluaran_Sayur": 14336.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tanjung Jabung Barat",
+      "Pengeluaran_Buah": 8248.0,
+      "Pengeluaran_Sayur": 17517.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Tanjung Jabung Timur",
+      "Pengeluaran_Buah": 10383.0,
+      "Pengeluaran_Sayur": 20781.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tapanuli Selatan",
+      "Pengeluaran_Buah": 5063.0,
+      "Pengeluaran_Sayur": 15858.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tapanuli Tengah",
+      "Pengeluaran_Buah": 6169.0,
+      "Pengeluaran_Sayur": 12713.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tapanuli Utara",
+      "Pengeluaran_Buah": 9033.0,
+      "Pengeluaran_Sayur": 13957.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Tapin",
+      "Pengeluaran_Buah": 10881.0,
+      "Pengeluaran_Sayur": 11698.0,
+      "Region": "Kalimantan Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tasikmalaya",
+      "Pengeluaran_Buah": 9851.0,
+      "Pengeluaran_Sayur": 7713.0,
+      "Region": "Jawa Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Tebo",
+      "Pengeluaran_Buah": 11133.0,
+      "Pengeluaran_Sayur": 19598.0,
+      "Region": "Jambi",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tegal",
+      "Pengeluaran_Buah": 5581.0,
+      "Pengeluaran_Sayur": 9979.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Teluk Bintuni",
+      "Pengeluaran_Buah": 11297.0,
+      "Pengeluaran_Sayur": 19855.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Teluk Wondama",
+      "Pengeluaran_Buah": 9473.0,
+      "Pengeluaran_Sayur": 17049.0,
+      "Region": "Papua Barat",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Temanggung",
+      "Pengeluaran_Buah": 6377.0,
+      "Pengeluaran_Sayur": 11245.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Timor Tengah Selatan",
+      "Pengeluaran_Buah": 4287.0,
+      "Pengeluaran_Sayur": 13822.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Timor Tengah Utara",
+      "Pengeluaran_Buah": 4132.0,
+      "Pengeluaran_Sayur": 14566.0,
+      "Region": "Nusa Tenggara Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 0,
+      "Kabupaten_Kota": "Toba Samosir",
+      "Pengeluaran_Buah": 12956.0,
+      "Pengeluaran_Sayur": 15410.0,
+      "Region": "Sumatera Utara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tojo Una-Una",
+      "Pengeluaran_Buah": 6626.0,
+      "Pengeluaran_Sayur": 9856.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Toli-Toli",
+      "Pengeluaran_Buah": 5259.0,
+      "Pengeluaran_Sayur": 8417.0,
+      "Region": "Sulawesi Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tolikara",
+      "Pengeluaran_Buah": 7560.0,
+      "Pengeluaran_Sayur": 20040.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Toraja Utara",
+      "Pengeluaran_Buah": 6346.0,
+      "Pengeluaran_Sayur": 10788.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Trenggalek",
+      "Pengeluaran_Buah": 7696.0,
+      "Pengeluaran_Sayur": 11033.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tuban",
+      "Pengeluaran_Buah": 8445.0,
+      "Pengeluaran_Sayur": 12014.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tulang Bawang Barat",
+      "Pengeluaran_Buah": 6347.0,
+      "Pengeluaran_Sayur": 16169.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tulangbawang",
+      "Pengeluaran_Buah": 7215.0,
+      "Pengeluaran_Sayur": 16189.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Tulungagung",
+      "Pengeluaran_Buah": 7650.0,
+      "Pengeluaran_Sayur": 12318.0,
+      "Region": "Jawa Timur",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Wajo",
+      "Pengeluaran_Buah": 9300.0,
+      "Pengeluaran_Sayur": 7939.0,
+      "Region": "Sulawesi Selatan",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Wakatobi",
+      "Pengeluaran_Buah": 7320.0,
+      "Pengeluaran_Sayur": 10448.0,
+      "Region": "Sulawesi Tenggara",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Waropen",
+      "Pengeluaran_Buah": 1879.0,
+      "Pengeluaran_Sayur": 32338.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Way Kanan",
+      "Pengeluaran_Buah": 8584.0,
+      "Pengeluaran_Sayur": 16976.0,
+      "Region": "Lainnya",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Wonogiri",
+      "Pengeluaran_Buah": 6870.0,
+      "Pengeluaran_Sayur": 12967.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Wonosobo",
+      "Pengeluaran_Buah": 6803.0,
+      "Pengeluaran_Sayur": 8599.0,
+      "Region": "Jawa Tengah",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 1,
+      "Kabupaten_Kota": "Yahukimo",
+      "Pengeluaran_Buah": 6519.0,
+      "Pengeluaran_Sayur": 14813.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    },
+    {
+      "Cluster": 2,
+      "Kabupaten_Kota": "Yalimo",
+      "Pengeluaran_Buah": 13414.0,
+      "Pengeluaran_Sayur": 63021.0,
+      "Region": "Papua",
+      "Tahun": 2024
+    }
+  ],
+  "success": true
+}

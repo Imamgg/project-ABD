@@ -1,0 +1,92 @@
+Endpoint: api/statistics
+{
+  "data": {
+    "centroids": [
+      {
+        "Cluster": 0,
+        "Pengeluaran_Buah": 12265.885167464114,
+        "Pengeluaran_Sayur": 15813.181818181818
+      },
+      {
+        "Cluster": 1,
+        "Pengeluaran_Buah": 7143.057046979866,
+        "Pengeluaran_Sayur": 13296.1644295302
+      },
+      {
+        "Cluster": 2,
+        "Pengeluaran_Buah": 12093.285714285714,
+        "Pengeluaran_Sayur": 55512.428571428565
+      }
+    ],
+    "cluster_distribution": {
+      "0": 209,
+      "1": 298,
+      "2": 7
+    },
+    "cluster_labels": {
+      "0": "Low Expenditure",
+      "1": "Balanced Expenditure",
+      "2": "High Expenditure"
+    },
+    "cluster_profiles": [
+      {
+        "Centroid_Buah": 12265.885167464114,
+        "Centroid_Sayur": 15813.181818181818,
+        "Cluster": 0,
+        "Mean_Buah": 12265.885167464116,
+        "Mean_Sayur": 15813.181818181818,
+        "Median_Buah": 11793.0,
+        "Median_Sayur": 15504.0,
+        "Silhouette_Score": 0.3697304324345739,
+        "Size": 209,
+        "Std_Buah": 2167.8291596886147,
+        "Std_Sayur": 4077.841028923005
+      },
+      {
+        "Centroid_Buah": 7143.057046979866,
+        "Centroid_Sayur": 13296.1644295302,
+        "Cluster": 1,
+        "Mean_Buah": 7143.057046979866,
+        "Mean_Sayur": 13296.1644295302,
+        "Median_Buah": 7383.0,
+        "Median_Sayur": 12598.0,
+        "Silhouette_Score": 0.441250110518971,
+        "Size": 298,
+        "Std_Buah": 1731.557855274346,
+        "Std_Sayur": 4162.369425639458
+      },
+      {
+        "Centroid_Buah": 12093.285714285714,
+        "Centroid_Sayur": 55512.428571428565,
+        "Cluster": 2,
+        "Mean_Buah": 12093.285714285714,
+        "Mean_Sayur": 55512.42857142857,
+        "Median_Buah": 10747.0,
+        "Median_Sayur": 55758.0,
+        "Silhouette_Score": 0.3418189906023943,
+        "Size": 7,
+        "Std_Buah": 7979.196194151507,
+        "Std_Sayur": 13932.724486583653
+      }
+    ],
+    "expenditure_summary": {
+      "avg_buah": 9293.490272373541,
+      "avg_sayur": 14894.550583657587,
+      "max_buah": 25802.0,
+      "max_sayur": 81168.0,
+      "min_buah": 1395.0,
+      "min_sayur": 5778.0
+    },
+    "overview": {
+      "total_clusters": 3,
+      "total_data_points": 514,
+      "total_kabupaten": 514,
+      "years_covered": [2024]
+    },
+    "regional_distribution": {
+      "Aceh": 12,
+      "Lainnya": 502
+    }
+  },
+  "success": true
+}

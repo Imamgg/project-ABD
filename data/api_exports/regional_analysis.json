@@ -1,0 +1,880 @@
+{
+  "metadata": {
+    "total_regions": 35,
+    "generated_at": "2025-11-29T12:37:10.903652"
+  },
+  "regions": [
+    {
+      "region": "Aceh",
+      "total_kabupaten": 16,
+      "percentage": 3.11,
+      "cluster_distribution": {
+        "1": 12,
+        "0": 4
+      },
+      "expenditure": {
+        "avg_buah": 8070.125,
+        "avg_sayur": 14668.0625,
+        "total_avg": 22738.1875,
+        "max_buah": 14192.0,
+        "max_sayur": 17920.0,
+        "min_buah": 5004.0,
+        "min_sayur": 10205.0
+      },
+      "top_kabupaten": [
+        "Aceh Tengah",
+        "Kota Banda Aceh",
+        "Aceh Barat",
+        "Kota Sabang",
+        "Kota Lhokseumawe"
+      ]
+    },
+    {
+      "region": "Bali",
+      "total_kabupaten": 9,
+      "percentage": 1.75,
+      "cluster_distribution": {
+        "0": 5,
+        "1": 4
+      },
+      "expenditure": {
+        "avg_buah": 11238.111111111111,
+        "avg_sayur": 14170.777777777777,
+        "total_avg": 25408.88888888889,
+        "max_buah": 17278.0,
+        "max_sayur": 16174.0,
+        "min_buah": 7447.0,
+        "min_sayur": 10260.0
+      },
+      "top_kabupaten": [
+        "Bangli",
+        "Gianyar",
+        "Badung",
+        "Kota Denpasar",
+        "Tabanan"
+      ]
+    },
+    {
+      "region": "Bangka Belitung",
+      "total_kabupaten": 8,
+      "percentage": 1.56,
+      "cluster_distribution": {
+        "0": 7,
+        "1": 1
+      },
+      "expenditure": {
+        "avg_buah": 12753.25,
+        "avg_sayur": 17495.625,
+        "total_avg": 30248.875,
+        "max_buah": 17709.0,
+        "max_sayur": 22029.0,
+        "min_buah": 4582.0,
+        "min_sayur": 8863.0
+      },
+      "top_kabupaten": [
+        "Kota Pangkal Pinang",
+        "Belitung",
+        "Bangka",
+        "Bangka Tengah",
+        "Belitung Timur"
+      ]
+    },
+    {
+      "region": "Banten",
+      "total_kabupaten": 8,
+      "percentage": 1.56,
+      "cluster_distribution": {
+        "0": 4,
+        "1": 4
+      },
+      "expenditure": {
+        "avg_buah": 11115.125,
+        "avg_sayur": 14429.75,
+        "total_avg": 25544.875,
+        "max_buah": 15713.0,
+        "max_sayur": 19428.0,
+        "min_buah": 6695.0,
+        "min_sayur": 10237.0
+      },
+      "top_kabupaten": [
+        "Kota Tangerang",
+        "Kota Tangerang Selatan",
+        "Kota Cilegon",
+        "Lebak",
+        "Kota Serang"
+      ]
+    },
+    {
+      "region": "Bengkulu",
+      "total_kabupaten": 10,
+      "percentage": 1.95,
+      "cluster_distribution": {
+        "0": 6,
+        "1": 4
+      },
+      "expenditure": {
+        "avg_buah": 9753.5,
+        "avg_sayur": 19428.0,
+        "total_avg": 29181.5,
+        "max_buah": 13304.0,
+        "max_sayur": 23996.0,
+        "min_buah": 6988.0,
+        "min_sayur": 15892.0
+      },
+      "top_kabupaten": [
+        "Kota Bengkulu",
+        "Mukomuko",
+        "Lebong",
+        "Bengkulu Selatan",
+        "Bengkulu Utara"
+      ]
+    },
+    {
+      "region": "DI Yogyakarta",
+      "total_kabupaten": 4,
+      "percentage": 0.78,
+      "cluster_distribution": {
+        "0": 3,
+        "1": 1
+      },
+      "expenditure": {
+        "avg_buah": 10570.75,
+        "avg_sayur": 12242.75,
+        "total_avg": 22813.5,
+        "max_buah": 13381.0,
+        "max_sayur": 13902.0,
+        "min_buah": 7333.0,
+        "min_sayur": 10575.0
+      },
+      "top_kabupaten": [
+        "Sleman",
+        "Kota Yogyakarta",
+        "Bantul",
+        "Kulon Progo"
+      ]
+    },
+    {
+      "region": "DKI Jakarta",
+      "total_kabupaten": 5,
+      "percentage": 0.97,
+      "cluster_distribution": {
+        "0": 5
+      },
+      "expenditure": {
+        "avg_buah": 13765.8,
+        "avg_sayur": 17936.4,
+        "total_avg": 31702.2,
+        "max_buah": 15382.0,
+        "max_sayur": 22204.0,
+        "min_buah": 10641.0,
+        "min_sayur": 15070.0
+      },
+      "top_kabupaten": [
+        "Kota Jakarta Selatan",
+        "Kota Jakarta Utara",
+        "Kota Jakarta Barat",
+        "Kota Jakarta Timur",
+        "Kota Jakarta Pusat"
+      ]
+    },
+    {
+      "region": "Gorontalo",
+      "total_kabupaten": 7,
+      "percentage": 1.36,
+      "cluster_distribution": {
+        "1": 5,
+        "0": 2
+      },
+      "expenditure": {
+        "avg_buah": 8788.857142857143,
+        "avg_sayur": 11916.142857142857,
+        "total_avg": 20705.0,
+        "max_buah": 12600.0,
+        "max_sayur": 15936.0,
+        "min_buah": 5937.0,
+        "min_sayur": 9733.0
+      },
+      "top_kabupaten": [
+        "Halmahera Utara",
+        "Kota Gorontalo",
+        "Boalemo",
+        "Pohuwato",
+        "Mamuju Utara"
+      ]
+    },
+    {
+      "region": "Jambi",
+      "total_kabupaten": 11,
+      "percentage": 2.14,
+      "cluster_distribution": {
+        "0": 9,
+        "1": 2
+      },
+      "expenditure": {
+        "avg_buah": 12603.0,
+        "avg_sayur": 19431.0,
+        "total_avg": 32034.0,
+        "max_buah": 20638.0,
+        "max_sayur": 22504.0,
+        "min_buah": 8248.0,
+        "min_sayur": 16685.0
+      },
+      "top_kabupaten": [
+        "Bungo",
+        "Merangin",
+        "Sarolangun",
+        "Kota Jambi",
+        "Muaro Jambi"
+      ]
+    },
+    {
+      "region": "Jawa Barat",
+      "total_kabupaten": 30,
+      "percentage": 5.84,
+      "cluster_distribution": {
+        "1": 17,
+        "0": 13
+      },
+      "expenditure": {
+        "avg_buah": 10130.166666666666,
+        "avg_sayur": 11828.233333333334,
+        "total_avg": 21958.4,
+        "max_buah": 16963.0,
+        "max_sayur": 20707.0,
+        "min_buah": 6396.0,
+        "min_sayur": 7713.0
+      },
+      "top_kabupaten": [
+        "Kota Depok",
+        "Kota Bekasi",
+        "Pangandaran",
+        "Kota Tasikmalaya",
+        "Kota Sukabumi"
+      ]
+    },
+    {
+      "region": "Jawa Tengah",
+      "total_kabupaten": 32,
+      "percentage": 6.23,
+      "cluster_distribution": {
+        "1": 26,
+        "0": 6
+      },
+      "expenditure": {
+        "avg_buah": 8178.625,
+        "avg_sayur": 11949.90625,
+        "total_avg": 20128.53125,
+        "max_buah": 14150.0,
+        "max_sayur": 16744.0,
+        "min_buah": 5581.0,
+        "min_sayur": 8599.0
+      },
+      "top_kabupaten": [
+        "Kota Salatiga",
+        "Kota Semarang",
+        "Banyumas",
+        "Pati",
+        "Semarang"
+      ]
+    },
+    {
+      "region": "Jawa Timur",
+      "total_kabupaten": 37,
+      "percentage": 7.2,
+      "cluster_distribution": {
+        "1": 25,
+        "0": 12
+      },
+      "expenditure": {
+        "avg_buah": 8566.702702702703,
+        "avg_sayur": 11743.108108108108,
+        "total_avg": 20309.810810810814,
+        "max_buah": 15288.0,
+        "max_sayur": 16478.0,
+        "min_buah": 2811.0,
+        "min_sayur": 7001.0
+      },
+      "top_kabupaten": [
+        "Kota Madiun",
+        "Kota Surabaya",
+        "Kota Pasuruan",
+        "Kota Batu",
+        "Sidoarjo"
+      ]
+    },
+    {
+      "region": "Kalimantan Barat",
+      "total_kabupaten": 14,
+      "percentage": 2.72,
+      "cluster_distribution": {
+        "1": 11,
+        "0": 3
+      },
+      "expenditure": {
+        "avg_buah": 8010.857142857143,
+        "avg_sayur": 13275.57142857143,
+        "total_avg": 21286.428571428572,
+        "max_buah": 12255.0,
+        "max_sayur": 17409.0,
+        "min_buah": 5801.0,
+        "min_sayur": 9006.0
+      },
+      "top_kabupaten": [
+        "Sekadau",
+        "Kota Singkawang",
+        "Kota Pontianak",
+        "Landak",
+        "Ketapang"
+      ]
+    },
+    {
+      "region": "Kalimantan Selatan",
+      "total_kabupaten": 8,
+      "percentage": 1.56,
+      "cluster_distribution": {
+        "0": 5,
+        "1": 3
+      },
+      "expenditure": {
+        "avg_buah": 10673.75,
+        "avg_sayur": 10946.75,
+        "total_avg": 21620.5,
+        "max_buah": 14530.0,
+        "max_sayur": 14578.0,
+        "min_buah": 7216.0,
+        "min_sayur": 8734.0
+      },
+      "top_kabupaten": [
+        "Tabalong",
+        "Balangan",
+        "Tanah Bumbu",
+        "Hulu Sungai Tengah",
+        "Tapin"
+      ]
+    },
+    {
+      "region": "Kalimantan Tengah",
+      "total_kabupaten": 15,
+      "percentage": 2.92,
+      "cluster_distribution": {
+        "1": 8,
+        "0": 7
+      },
+      "expenditure": {
+        "avg_buah": 9887.4,
+        "avg_sayur": 15395.8,
+        "total_avg": 25283.199999999997,
+        "max_buah": 15057.0,
+        "max_sayur": 22772.0,
+        "min_buah": 5908.0,
+        "min_sayur": 10375.0
+      },
+      "top_kabupaten": [
+        "Sukamara",
+        "Lamandau",
+        "Kotawaringin Barat",
+        "Barito Timur",
+        "Seruyan"
+      ]
+    },
+    {
+      "region": "Kalimantan Timur",
+      "total_kabupaten": 10,
+      "percentage": 1.95,
+      "cluster_distribution": {
+        "0": 9,
+        "1": 1
+      },
+      "expenditure": {
+        "avg_buah": 12280.4,
+        "avg_sayur": 16270.8,
+        "total_avg": 28551.199999999997,
+        "max_buah": 14116.0,
+        "max_sayur": 22812.0,
+        "min_buah": 8560.0,
+        "min_sayur": 13171.0
+      },
+      "top_kabupaten": [
+        "Kota Bontang",
+        "Kutai Timur",
+        "Kutai Kartanegara",
+        "Kota Balikpapan",
+        "Kutai Barat"
+      ]
+    },
+    {
+      "region": "Kalimantan Utara",
+      "total_kabupaten": 5,
+      "percentage": 0.97,
+      "cluster_distribution": {
+        "0": 3,
+        "1": 2
+      },
+      "expenditure": {
+        "avg_buah": 9512.8,
+        "avg_sayur": 17172.4,
+        "total_avg": 26685.2,
+        "max_buah": 11905.0,
+        "max_sayur": 20385.0,
+        "min_buah": 7455.0,
+        "min_sayur": 13806.0
+      },
+      "top_kabupaten": [
+        "Bulungan",
+        "Tana Tidung",
+        "Malinau",
+        "Kota Tarakan",
+        "Nunukan"
+      ]
+    },
+    {
+      "region": "Kepulauan Riau",
+      "total_kabupaten": 10,
+      "percentage": 1.95,
+      "cluster_distribution": {
+        "0": 6,
+        "1": 4
+      },
+      "expenditure": {
+        "avg_buah": 9952.3,
+        "avg_sayur": 16894.2,
+        "total_avg": 26846.5,
+        "max_buah": 12732.0,
+        "max_sayur": 22438.0,
+        "min_buah": 7609.0,
+        "min_sayur": 11437.0
+      },
+      "top_kabupaten": [
+        "Kota Batam",
+        "Kota Lubuklinggau",
+        "Kota Tanjung Pinang",
+        "Kepulauan Anambas",
+        "Natuna"
+      ]
+    },
+    {
+      "region": "Lainnya",
+      "total_kabupaten": 26,
+      "percentage": 5.06,
+      "cluster_distribution": {
+        "1": 15,
+        "0": 11
+      },
+      "expenditure": {
+        "avg_buah": 8915.423076923076,
+        "avg_sayur": 15501.653846153846,
+        "total_avg": 24417.076923076922,
+        "max_buah": 16958.0,
+        "max_sayur": 22570.0,
+        "min_buah": 2567.0,
+        "min_sayur": 9668.0
+      },
+      "top_kabupaten": [
+        "Bener Meriah",
+        "Pulau Taliabu",
+        "Nagan Raya",
+        "Pesawaran",
+        "Kep. Seribu"
+      ]
+    },
+    {
+      "region": "Lampung",
+      "total_kabupaten": 7,
+      "percentage": 1.36,
+      "cluster_distribution": {
+        "0": 4,
+        "1": 3
+      },
+      "expenditure": {
+        "avg_buah": 9776.42857142857,
+        "avg_sayur": 15552.714285714286,
+        "total_avg": 25329.142857142855,
+        "max_buah": 13622.0,
+        "max_sayur": 16659.0,
+        "min_buah": 5834.0,
+        "min_sayur": 13395.0
+      },
+      "top_kabupaten": [
+        "Kota Metro",
+        "Kota Bandar Lampung",
+        "Lampung Barat",
+        "Lampung Selatan",
+        "Lampung Tengah"
+      ]
+    },
+    {
+      "region": "Maluku",
+      "total_kabupaten": 10,
+      "percentage": 1.95,
+      "cluster_distribution": {
+        "0": 5,
+        "1": 5
+      },
+      "expenditure": {
+        "avg_buah": 9572.1,
+        "avg_sayur": 13224.3,
+        "total_avg": 22796.4,
+        "max_buah": 13984.0,
+        "max_sayur": 15955.0,
+        "min_buah": 4869.0,
+        "min_sayur": 10423.0
+      },
+      "top_kabupaten": [
+        "Seram Bagian Timur",
+        "Kota Ambon",
+        "Maluku Tengah",
+        "Buru",
+        "Seram Bagian Barat"
+      ]
+    },
+    {
+      "region": "Maluku Utara",
+      "total_kabupaten": 7,
+      "percentage": 1.36,
+      "cluster_distribution": {
+        "0": 5,
+        "1": 2
+      },
+      "expenditure": {
+        "avg_buah": 12522.57142857143,
+        "avg_sayur": 16022.57142857143,
+        "total_avg": 28545.14285714286,
+        "max_buah": 19293.0,
+        "max_sayur": 20368.0,
+        "min_buah": 8061.0,
+        "min_sayur": 12061.0
+      },
+      "top_kabupaten": [
+        "Kota Ternate",
+        "Kota Tidore Kepulauan",
+        "Halmahera Tengah",
+        "Halmahera Timur",
+        "Halmahera Selatan"
+      ]
+    },
+    {
+      "region": "Nusa Tenggara Barat",
+      "total_kabupaten": 10,
+      "percentage": 1.95,
+      "cluster_distribution": {
+        "0": 7,
+        "1": 3
+      },
+      "expenditure": {
+        "avg_buah": 11457.2,
+        "avg_sayur": 12288.4,
+        "total_avg": 23745.6,
+        "max_buah": 16109.0,
+        "max_sayur": 15452.0,
+        "min_buah": 7094.0,
+        "min_sayur": 8371.0
+      },
+      "top_kabupaten": [
+        "Sumbawa Barat",
+        "Lombok Timur",
+        "Kota Mataram",
+        "Kota Bima",
+        "Sumbawa"
+      ]
+    },
+    {
+      "region": "Nusa Tenggara Timur",
+      "total_kabupaten": 21,
+      "percentage": 4.09,
+      "cluster_distribution": {
+        "1": 21
+      },
+      "expenditure": {
+        "avg_buah": 4102.523809523809,
+        "avg_sayur": 11987.666666666666,
+        "total_avg": 16090.190476190475,
+        "max_buah": 7096.0,
+        "max_sayur": 15919.0,
+        "min_buah": 1395.0,
+        "min_sayur": 8865.0
+      },
+      "top_kabupaten": [
+        "Ngada",
+        "Kota Kupang",
+        "Lembata",
+        "Sikka",
+        "Ende"
+      ]
+    },
+    {
+      "region": "Papua",
+      "total_kabupaten": 28,
+      "percentage": 5.45,
+      "cluster_distribution": {
+        "1": 17,
+        "2": 7,
+        "0": 4
+      },
+      "expenditure": {
+        "avg_buah": 8398.17857142857,
+        "avg_sayur": 30016.678571428572,
+        "total_avg": 38414.857142857145,
+        "max_buah": 25802.0,
+        "max_sayur": 81168.0,
+        "min_buah": 1879.0,
+        "min_sayur": 13805.0
+      },
+      "top_kabupaten": [
+        "Nduga",
+        "Dogiyai",
+        "Yalimo",
+        "Boven Digoel",
+        "Merauke"
+      ]
+    },
+    {
+      "region": "Papua Barat",
+      "total_kabupaten": 13,
+      "percentage": 2.53,
+      "cluster_distribution": {
+        "0": 8,
+        "1": 5
+      },
+      "expenditure": {
+        "avg_buah": 10078.846153846154,
+        "avg_sayur": 19268.30769230769,
+        "total_avg": 29347.153846153844,
+        "max_buah": 16965.0,
+        "max_sayur": 27249.0,
+        "min_buah": 5249.0,
+        "min_sayur": 15136.0
+      },
+      "top_kabupaten": [
+        "Kaimana",
+        "Fakfak",
+        "Manokwari Selatan",
+        "Teluk Bintuni",
+        "Raja Ampat"
+      ]
+    },
+    {
+      "region": "Riau",
+      "total_kabupaten": 12,
+      "percentage": 2.33,
+      "cluster_distribution": {
+        "1": 9,
+        "0": 3
+      },
+      "expenditure": {
+        "avg_buah": 8245.333333333334,
+        "avg_sayur": 20507.25,
+        "total_avg": 28752.583333333336,
+        "max_buah": 10295.0,
+        "max_sayur": 25104.0,
+        "min_buah": 5825.0,
+        "min_sayur": 14209.0
+      },
+      "top_kabupaten": [
+        "Kota Pekanbaru",
+        "Rokan Hulu",
+        "Kota Dumai",
+        "Pelalawan",
+        "Indragiri Hulu"
+      ]
+    },
+    {
+      "region": "Sulawesi Barat",
+      "total_kabupaten": 5,
+      "percentage": 0.97,
+      "cluster_distribution": {
+        "1": 5
+      },
+      "expenditure": {
+        "avg_buah": 8354.2,
+        "avg_sayur": 8656.4,
+        "total_avg": 17010.6,
+        "max_buah": 10246.0,
+        "max_sayur": 10857.0,
+        "min_buah": 7534.0,
+        "min_sayur": 7189.0
+      },
+      "top_kabupaten": [
+        "Polewali Mandar",
+        "Mamuju",
+        "Mamasa",
+        "Majene",
+        "Mamuju Tengah"
+      ]
+    },
+    {
+      "region": "Sulawesi Selatan",
+      "total_kabupaten": 24,
+      "percentage": 4.67,
+      "cluster_distribution": {
+        "1": 15,
+        "0": 9
+      },
+      "expenditure": {
+        "avg_buah": 10242.375,
+        "avg_sayur": 8904.0,
+        "total_avg": 19146.375,
+        "max_buah": 16801.0,
+        "max_sayur": 11466.0,
+        "min_buah": 6072.0,
+        "min_sayur": 5870.0
+      },
+      "top_kabupaten": [
+        "Enrekang",
+        "Kota Palopo",
+        "Bantaeng",
+        "Luwu Utara",
+        "Bulukumba"
+      ]
+    },
+    {
+      "region": "Sulawesi Tengah",
+      "total_kabupaten": 13,
+      "percentage": 2.53,
+      "cluster_distribution": {
+        "1": 8,
+        "0": 5
+      },
+      "expenditure": {
+        "avg_buah": 9545.384615384615,
+        "avg_sayur": 11772.0,
+        "total_avg": 21317.384615384617,
+        "max_buah": 15223.0,
+        "max_sayur": 16887.0,
+        "min_buah": 5259.0,
+        "min_sayur": 8417.0
+      },
+      "top_kabupaten": [
+        "Morowali",
+        "Banggai",
+        "Morowali Utara",
+        "Banggai Kepulauan",
+        "Poso"
+      ]
+    },
+    {
+      "region": "Sulawesi Tenggara",
+      "total_kabupaten": 17,
+      "percentage": 3.31,
+      "cluster_distribution": {
+        "1": 10,
+        "0": 7
+      },
+      "expenditure": {
+        "avg_buah": 9749.588235294117,
+        "avg_sayur": 8903.823529411764,
+        "total_avg": 18653.41176470588,
+        "max_buah": 16425.0,
+        "max_sayur": 12569.0,
+        "min_buah": 5255.0,
+        "min_sayur": 5778.0
+      },
+      "top_kabupaten": [
+        "Kolaka Utara",
+        "Konawe Utara",
+        "Kolaka",
+        "Konawe Kepulauan",
+        "Kota Kendari"
+      ]
+    },
+    {
+      "region": "Sulawesi Utara",
+      "total_kabupaten": 15,
+      "percentage": 2.92,
+      "cluster_distribution": {
+        "0": 11,
+        "1": 4
+      },
+      "expenditure": {
+        "avg_buah": 10735.2,
+        "avg_sayur": 13044.6,
+        "total_avg": 23779.800000000003,
+        "max_buah": 15364.0,
+        "max_sayur": 15396.0,
+        "min_buah": 5969.0,
+        "min_sayur": 9454.0
+      },
+      "top_kabupaten": [
+        "Kota Kotamobagu",
+        "Kota Tomohon",
+        "Minahasa",
+        "Bolaang Mongondow",
+        "Kota Bitung"
+      ]
+    },
+    {
+      "region": "Sumatera Barat",
+      "total_kabupaten": 18,
+      "percentage": 3.5,
+      "cluster_distribution": {
+        "1": 11,
+        "0": 7
+      },
+      "expenditure": {
+        "avg_buah": 9283.0,
+        "avg_sayur": 19259.555555555555,
+        "total_avg": 28542.555555555555,
+        "max_buah": 17839.0,
+        "max_sayur": 22891.0,
+        "min_buah": 5126.0,
+        "min_sayur": 16329.0
+      },
+      "top_kabupaten": [
+        "Dharmasraya",
+        "Kepulauan Mentawai",
+        "Kota Padang Panjang",
+        "Kota Bukittinggi",
+        "Kota Padang"
+      ]
+    },
+    {
+      "region": "Sumatera Selatan",
+      "total_kabupaten": 16,
+      "percentage": 3.11,
+      "cluster_distribution": {
+        "1": 8,
+        "0": 8
+      },
+      "expenditure": {
+        "avg_buah": 9942.375,
+        "avg_sayur": 14596.0625,
+        "total_avg": 24538.4375,
+        "max_buah": 12613.0,
+        "max_sayur": 18253.0,
+        "min_buah": 7285.0,
+        "min_sayur": 11395.0
+      },
+      "top_kabupaten": [
+        "Kota Palembang",
+        "Ogan Komering Ilir",
+        "Musi Banyuasin",
+        "Musi Rawas",
+        "Kota Pagar Alam"
+      ]
+    },
+    {
+      "region": "Sumatera Utara",
+      "total_kabupaten": 33,
+      "percentage": 6.42,
+      "cluster_distribution": {
+        "1": 27,
+        "0": 6
+      },
+      "expenditure": {
+        "avg_buah": 7103.878787878788,
+        "avg_sayur": 15431.09090909091,
+        "total_avg": 22534.969696969696,
+        "max_buah": 12956.0,
+        "max_sayur": 22247.0,
+        "min_buah": 2389.0,
+        "min_sayur": 7832.0
+      },
+      "top_kabupaten": [
+        "Toba Samosir",
+        "Kota Pematang Siantar",
+        "Samosir",
+        "Kota Medan",
+        "Humbang Hasundutan"
+      ]
+    }
+  ]
+}

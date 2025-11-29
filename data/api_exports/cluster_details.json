@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "total_clusters": 3,
+    "generated_at": "2025-11-29T12:37:10.773940"
+  },
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "cluster_label": "Low Expenditure",
+      "size": 209,
+      "percentage": 40.66,
+      "profile": {
+        "Cluster": 0,
+        "Size": 209,
+        "Centroid_Buah": 12265.885167464114,
+        "Centroid_Sayur": 15813.181818181818,
+        "Mean_Buah": 12265.885167464116,
+        "Mean_Sayur": 15813.181818181818,
+        "Median_Buah": 11793.0,
+        "Median_Sayur": 15504.0,
+        "Std_Buah": 2167.8291596886147,
+        "Std_Sayur": 4077.841028923005,
+        "Silhouette_Score": 0.3697304324345739
+      },
+      "centroid": {
+        "Cluster": 0,
+        "Pengeluaran_Buah": 12265.885167464114,
+        "Pengeluaran_Sayur": 15813.181818181818
+      },
+      "regional_distribution": {
+        "Jawa Barat": 13,
+        "Jawa Timur": 12,
+        "Sulawesi Utara": 11,
+        "Lainnya": 11,
+        "Sulawesi Selatan": 9,
+        "Jambi": 9,
+        "Kalimantan Timur": 9,
+        "Sumatera Selatan": 8,
+        "Papua Barat": 8,
+        "Sulawesi Tenggara": 7,
+        "Nusa Tenggara Barat": 7,
+        "Bangka Belitung": 7,
+        "Kalimantan Tengah": 7,
+        "Sumatera Barat": 7,
+        "Sumatera Utara": 6,
+        "Bengkulu": 6,
+        "Jawa Tengah": 6,
+        "Kepulauan Riau": 6,
+        "Bali": 5,
+        "DKI Jakarta": 5,
+        "Maluku": 5,
+        "Maluku Utara": 5,
+        "Sulawesi Tengah": 5,
+        "Kalimantan Selatan": 5,
+        "Banten": 4,
+        "Lampung": 4,
+        "Aceh": 4,
+        "Papua": 4,
+        "Kalimantan Utara": 3,
+        "DI Yogyakarta": 3,
+        "Riau": 3,
+        "Kalimantan Barat": 3,
+        "Gorontalo": 2
+      },
+      "sample_kabupaten": [
+        "Aceh Barat",
+        "Aceh Tengah",
+        "Badung",
+        "Balangan",
+        "Banggai",
+        "Banggai Kepulauan",
+        "Bangka",
+        "Bangka Barat",
+        "Bangka Selatan",
+        "Bangka Tengah"
+      ],
+      "statistics": {
+        "avg_buah": 12265.885167464116,
+        "avg_sayur": 15813.181818181818,
+        "median_buah": 11793.0,
+        "median_sayur": 15504.0,
+        "std_buah": 2167.8291596886147,
+        "std_sayur": 4077.841028923005
+      }
+    },
+    {
+      "cluster_id": 1,
+      "cluster_label": "Balanced Expenditure",
+      "size": 298,
+      "percentage": 57.98,
+      "profile": {
+        "Cluster": 1,
+        "Size": 298,
+        "Centroid_Buah": 7143.057046979866,
+        "Centroid_Sayur": 13296.1644295302,
+        "Mean_Buah": 7143.057046979866,
+        "Mean_Sayur": 13296.1644295302,
+        "Median_Buah": 7383.0,
+        "Median_Sayur": 12598.0,
+        "Std_Buah": 1731.557855274346,
+        "Std_Sayur": 4162.369425639458,
+        "Silhouette_Score": 0.441250110518971
+      },
+      "centroid": {
+        "Cluster": 1,
+        "Pengeluaran_Buah": 7143.057046979866,
+        "Pengeluaran_Sayur": 13296.1644295302
+      },
+      "regional_distribution": {
+        "Sumatera Utara": 27,
+        "Jawa Tengah": 26,
+        "Jawa Timur": 25,
+        "Nusa Tenggara Timur": 21,
+        "Papua": 17,
+        "Jawa Barat": 17,
+        "Sulawesi Selatan": 15,
+        "Lainnya": 15,
+        "Aceh": 12,
+        "Kalimantan Barat": 11,
+        "Sumatera Barat": 11,
+        "Sulawesi Tenggara": 10,
+        "Riau": 9,
+        "Kalimantan Tengah": 8,
+        "Sumatera Selatan": 8,
+        "Sulawesi Tengah": 8,
+        "Gorontalo": 5,
+        "Papua Barat": 5,
+        "Maluku": 5,
+        "Sulawesi Barat": 5,
+        "Sulawesi Utara": 4,
+        "Bali": 4,
+        "Kepulauan Riau": 4,
+        "Banten": 4,
+        "Bengkulu": 4,
+        "Nusa Tenggara Barat": 3,
+        "Kalimantan Selatan": 3,
+        "Lampung": 3,
+        "Maluku Utara": 2,
+        "Jambi": 2,
+        "Kalimantan Utara": 2,
+        "Bangka Belitung": 1,
+        "DI Yogyakarta": 1,
+        "Kalimantan Timur": 1
+      },
+      "sample_kabupaten": [
+        "Aceh Barat Daya",
+        "Aceh Besar",
+        "Aceh Jaya",
+        "Aceh Selatan",
+        "Aceh Singkil",
+        "Aceh Tamiang",
+        "Aceh Tenggara",
+        "Aceh Timur",
+        "Aceh Utara",
+        "Agam"
+      ],
+      "statistics": {
+        "avg_buah": 7143.057046979866,
+        "avg_sayur": 13296.164429530201,
+        "median_buah": 7383.0,
+        "median_sayur": 12598.0,
+        "std_buah": 1731.5578552743461,
+        "std_sayur": 4162.369425639458
+      }
+    },
+    {
+      "cluster_id": 2,
+      "cluster_label": "High Expenditure",
+      "size": 7,
+      "percentage": 1.36,
+      "profile": {
+        "Cluster": 2,
+        "Size": 7,
+        "Centroid_Buah": 12093.285714285714,
+        "Centroid_Sayur": 55512.428571428565,
+        "Mean_Buah": 12093.285714285714,
+        "Mean_Sayur": 55512.42857142857,
+        "Median_Buah": 10747.0,
+        "Median_Sayur": 55758.0,
+        "Std_Buah": 7979.196194151507,
+        "Std_Sayur": 13932.724486583653,
+        "Silhouette_Score": 0.3418189906023943
+      },
+      "centroid": {
+        "Cluster": 2,
+        "Pengeluaran_Buah": 12093.285714285714,
+        "Pengeluaran_Sayur": 55512.428571428565
+      },
+      "regional_distribution": {
+        "Papua": 7
+      },
+      "sample_kabupaten": [
+        "Dogiyai",
+        "Intan Jaya",
+        "Mamberamo Raya",
+        "Mamberamo Tengah",
+        "Nduga",
+        "Supiori",
+        "Yalimo"
+      ],
+      "statistics": {
+        "avg_buah": 12093.285714285714,
+        "avg_sayur": 55512.42857142857,
+        "median_buah": 10747.0,
+        "median_sayur": 55758.0,
+        "std_buah": 7979.196194151507,
+        "std_sayur": 13932.724486583651
+      }
+    }
+  ]
+}

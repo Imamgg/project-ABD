@@ -1,0 +1,37 @@
+{
+  "cluster_sizes": [
+    {
+      "Cluster": 0,
+      "Cluster_Label": "Low Expenditure",
+      "count": 209
+    },
+    {
+      "Cluster": 1,
+      "Cluster_Label": "Balanced Expenditure",
+      "count": 298
+    },
+    {
+      "Cluster": 2,
+      "Cluster_Label": "High Expenditure",
+      "count": 7
+    }
+  ],
+  "expenditure_by_cluster": [
+    {
+      "Cluster": 0,
+      "Pengeluaran_Buah": 12265.885167464116,
+      "Pengeluaran_Sayur": 15813.181818181818
+    },
+    {
+      "Cluster": 1,
+      "Pengeluaran_Buah": 7143.057046979866,
+      "Pengeluaran_Sayur": 13296.164429530201
+    },
+    {
+      "Cluster": 2,
+      "Pengeluaran_Buah": 12093.285714285714,
+      "Pengeluaran_Sayur": 55512.42857142857
+    }
+  ],
+  "predictions_summary": []
+}
