@@ -10,7 +10,6 @@ import {
 import { RegionData } from "../types";
 import L from "leaflet";
 
-// Fix for default marker icon in React-Leaflet
 const DefaultIcon = L.icon({
   iconUrl: "https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png",
   shadowUrl: "https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png",
@@ -26,7 +25,6 @@ interface MapProps {
   focusCoordinates?: { lat: number; lng: number } | null;
 }
 
-// Sub-component to handle map animations (FlyTo)
 const MapController: React.FC<{
   center: { lat: number; lng: number } | null;
 }> = ({ center }) => {
@@ -49,7 +47,6 @@ const MapComponent: React.FC<MapProps> = ({
   onSelectRegion,
   focusCoordinates,
 }) => {
-  // Calculate center of map based on Indonesia
   const centerPosition: [number, number] = [-2.5489, 118.0149];
 
   return (
@@ -62,7 +59,6 @@ const MapComponent: React.FC<MapProps> = ({
       >
         <MapController center={focusCoordinates || null} />
 
-        {/* Dark Matter Tiles for Web3 Look */}
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
           url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
@@ -78,7 +74,6 @@ const MapComponent: React.FC<MapProps> = ({
 
           return (
             <React.Fragment key={region.id}>
-              {/* Glow Effect Circle */}
               <CircleMarker
                 center={[region.coordinates.lat, region.coordinates.lng]}
                 pathOptions={{
@@ -90,12 +85,10 @@ const MapComponent: React.FC<MapProps> = ({
                 radius={6} // Fixed radius for scatter
                 eventHandlers={{
                   click: () => {
-                    // Center on click as well
                     if (onSelectRegion) onSelectRegion(region);
                   },
                 }}
               >
-                {/* Hover Tooltip */}
                 <Tooltip
                   direction="top"
                   offset={[0, -10]}

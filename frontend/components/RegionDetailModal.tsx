@@ -38,7 +38,6 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
             <Icons.X size={20} />
           </button>
 
-          {/* Header Section */}
           <div className="flex flex-col md:flex-row items-start md:items-center space-y-4 md:space-y-0 md:space-x-6 mb-8 border-b border-white/10 pb-6">
             <div className={`p-4 rounded-2xl bg-gradient-to-br ${
               region.clusterGroup === 'High' ? 'from-neon-cyan/20 to-blue-500/20 shadow-[0_0_15px_rgba(0,243,255,0.3)]' :
@@ -74,7 +73,6 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
             </div>
           </div>
 
-          {/* Key Metrics Grid */}
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
              <div className="p-5 rounded-xl bg-gradient-to-br from-white/5 to-transparent border border-white/10 hover:border-neon-cyan/30 transition duration-300">
                <p className="text-gray-400 text-xs uppercase tracking-wider mb-2">Total Pengeluaran</p>
@@ -94,10 +92,8 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
              </div>
           </div>
 
-          {/* Charts Section */}
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             
-            {/* Trend Chart */}
             <div className="lg:col-span-2 p-6 rounded-2xl bg-black/40 border border-white/10">
               <h3 className="text-lg font-bold text-white mb-6 flex items-center">
                 <Icons.Activity size={18} className="mr-2 text-neon-blue" /> 
@@ -129,7 +125,6 @@ const RegionDetailModal: React.FC<Props> = ({ region, onClose }) => {
               </div>
             </div>
 
-            {/* Gap Analysis Chart */}
             <div className="p-6 rounded-2xl bg-black/40 border border-white/10 flex flex-col">
               <h3 className="text-lg font-bold text-white mb-6 flex items-center">
                 <Icons.PieChart size={18} className="mr-2 text-neon-pink" /> 

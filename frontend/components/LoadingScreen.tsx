@@ -5,7 +5,6 @@ const LoadingScreen: React.FC = () => {
     <div className="flex flex-col items-center justify-center h-96 w-full relative overflow-hidden rounded-2xl border border-white/5 bg-black/20 backdrop-blur-sm">
       <div className="absolute inset-0 bg-[url('https://grainy-gradients.vercel.app/noise.svg')] opacity-20"></div>
       
-      {/* Spinner */}
       <div className="relative w-24 h-24">
         <div className="absolute inset-0 border-t-4 border-neon-cyan rounded-full animate-spin"></div>
         <div className="absolute inset-2 border-r-4 border-neon-purple rounded-full animate-spin animation-delay-200"></div>

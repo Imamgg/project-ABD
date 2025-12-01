@@ -31,7 +31,6 @@ const App: React.FC = () => {
     null
   );
 
-  // Load available regions on mount
   useEffect(() => {
     const loadRegions = async () => {
       try {
@@ -47,18 +46,14 @@ const App: React.FC = () => {
   const handleGenerate = async () => {
     setLoading(true);
     try {
-      // Use the new service that processes your specific dataset
       const result = await fetchRegionalData(selectedRegion);
       setData(result);
       setSelectedDetailRegion(null);
 
-      // Auto-focus logic
       if (result.regions.length > 0) {
-        // If specific region selected, focus on first item
         if (selectedRegion !== "All") {
           setMapFocus(result.regions[0].coordinates);
         } else {
-          // If All, focus roughly on Indonesia center
           setMapFocus({ lat: -2.5, lng: 118 });
         }
       }
