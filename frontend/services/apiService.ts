@@ -513,10 +513,10 @@ export const fetchRegionalData = async (
       coordinates: coords,
 
       historicalData: [
-        {
-          year: 2022,
-          value: (item.Pengeluaran_Buah + item.Pengeluaran_Sayur) * 0.95,
-        },
+        // {
+        //   year: 2022,
+        //   value: (item.Pengeluaran_Buah + item.Pengeluaran_Sayur) * 0.95,
+        // },
         {
           year: 2023,
           value: (item.Pengeluaran_Buah + item.Pengeluaran_Sayur) * 0.98,
